@@ -1,7 +1,7 @@
 # Archipelago Manual - Five Nights at Fuckboy's: Complete Collection
 
 ## Five Night at Fuckboy’s (NOT YET IMPLEMENTED)
-## Five Night at Fuckboy’s 2 (NOT YET IMPLEMENTED)
+## Five Night at Fuckboy’s 2
 ### Goals
 - Defeat BB
 - Defeat Refurbs
