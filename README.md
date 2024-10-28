@@ -1,4 +1,7 @@
 # Archipelago Manual - Five Nights at Fuckboy's: Complete Collection
+## Notes
+- This game's logic is made with each game's hardest difficulty in mind. This means Night XX for FNaFb1 and Proud for FNaFb2 and FNaFb3. **If you do not play on these difficulties, some items/checks may not exist and/or be more out of logic than possibly intended.**
+- As of making this, the latest version of the Complete Collection is Version 1.2. If a version happens to release after this, please let me know so that I can look into it.
 
 ## Five Night at Fuckboy’s (NOT YET IMPLEMENTED)
 ## Five Night at Fuckboy’s 2
@@ -22,4 +25,5 @@
 - OPTION: Defeat Optional Bosses (required for Refurbs goal)
 ## Five Night at Fuckboy’s: Afterstory (NOT YET IMPLEMENTED)
 ## Five Night at Fuckboy’s 3 (NOT YET IMPLEMENTED)
+## Five Nights at Fuckboy's: Prelude (NOT YET IMPLEMENTED)
 ## Five Night at Fuckboy’s: Finale (NOT YET IMPLEMENTED)
