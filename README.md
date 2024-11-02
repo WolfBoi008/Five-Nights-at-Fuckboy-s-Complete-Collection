@@ -15,7 +15,8 @@
   - Consumables (Filler)
   #### Checks
   - 2 Starting Boxes on Show Stage
-  - Defeat Protection Streamers
+  - Defeat Protection Noisemakers
+  - BB's Shops
   - Defeat Cameras
   - Defeat Bosses
   - Win the 3 Minigames in Parts & Service
