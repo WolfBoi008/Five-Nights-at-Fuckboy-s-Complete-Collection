@@ -23,7 +23,7 @@
   - Key Item Locations
   - Use Key Items
   - OPTION: Levelsanity
-  - OPTION: Defeat Optional Bosses (required for Refurbs goal)
+  - OPTION: Defeat Optional Bosses (recommended for Refurbs goal)
 ### Five Night at Fuckboy’s: Afterstory (NOT YET IMPLEMENTED)
 ### Five Night at Fuckboy’s 3 (NOT YET IMPLEMENTED)
 ### Five Nights at Fuckboy's: Prelude (NOT YET IMPLEMENTED)
