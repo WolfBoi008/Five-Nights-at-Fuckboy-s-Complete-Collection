@@ -1,0 +1,1766 @@
+[
+  {
+    "name": "Left Box",
+    "region": "Show Stage",
+    "category": [
+      "Show Stage",
+      "Show Stage Boxes"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Right Box",
+    "region": "Show Stage",
+    "category": [
+      "Show Stage",
+      "Show Stage Boxes"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Stick",
+    "region": "Men's Bathroom",
+    "category": [
+      "Men's Bathroom",
+      "Key Items"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Toy Bonnie",
+    "region": "Right Vent",
+    "category": [
+      "Right Vent",
+      "Party Members"
+    ],
+    "requires": "|Stick|"
+  },
+  {
+    "name": "Toy Chica",
+    "region": "Women's Bathroom",
+    "category": [
+      "Women's Bathroom",
+      "Party Members"
+    ],
+    "requires": "|Progressive Cupcakes:1| AND {equipBeta()}"
+  },
+  {
+    "name": "Sex Toy Voucher",
+    "region": "Kids Cove",
+    "category": [
+      "Kids Cove",
+      "Key Items"
+    ],
+    "requires": "{equipGamma()}"
+  },
+  {
+    "name": "Sex Toy",
+    "region": "Kids Cove",
+    "category": [
+      "Kids Cove",
+      "Key Items"
+    ],
+    "requires": "|Sex Toy Voucher| AND {equipGamma()}"
+  },
+  {
+    "name": "Mangle",
+    "region": "Kids Cove",
+    "category": [
+      "Kids Cove",
+      "Party Members"
+    ],
+    "requires": "|Sex Toy Voucher| AND |Sex Toy| AND {equipGamma()}"
+  },
+  {
+    "name": "Foxy's Steppin Cove",
+    "region": "Parts and Service",
+    "category": [
+      "Parts and Service",
+      "Arcade Games"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Puppet Love",
+    "region": "Parts and Service",
+    "category": [
+      "Parts and Service",
+      "Arcade Games"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cake",
+    "region": "Parts and Service",
+    "category": [
+      "Parts and Service",
+      "Arcade Games"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Show Stage Camera",
+    "region": "Show Stage",
+    "category": [
+      "Show Stage",
+      "Bosses"
+    ],
+    "requires": "{equipAlpha()}"
+  },
+  {
+    "region": "Show Stage",
+    "name": "Game Room Camera",
+    "category": [
+      "Show Stage",
+      "Bosses"
+    ],
+    "requires": "{equipAlpha()}"
+  },
+  {
+    "region": "Show Stage",
+    "name": "Prize Corner Camera",
+    "category": [
+      "Show Stage",
+      "Bosses"
+    ],
+    "requires": "{equipAlpha()}"
+  },
+  {
+    "name": "Main Hall Camera",
+    "region": "Main Hall",
+    "category": [
+      "Main Hall",
+      "Bosses"
+    ],
+    "requires": "{equipAlpha()}"
+  },
+  {
+    "name": "Parts and Service Camera",
+    "region": "Parts and Service",
+    "category": [
+      "Parts and Service",
+      "Bosses"
+    ],
+    "requires": "{equipBeta()}"
+  },
+  {
+    "name": "Party Room 3 Camera",
+    "region": "Party Room 3",
+    "category": [
+      "Party Room 3",
+      "Bosses"
+    ],
+    "requires": "{equipBeta()}"
+  },
+  {
+    "name": "Party Room 4 Camera",
+    "region": "Party Room 4",
+    "category": [
+      "Party Room 4",
+      "Bosses"
+    ],
+    "requires": "{equipBeta()}"
+  },
+  {
+    "name": "Party Room 2 Camera",
+    "region": "Party Room 2",
+    "category": [
+      "Party Room 2",
+      "Bosses"
+    ],
+    "requires": "{equipGamma()}"
+  },
+  {
+    "name": "Party Room 1 Camera",
+    "region": "Party Room 1",
+    "category": [
+      "Party Room 1",
+      "Bosses"
+    ],
+    "requires": "{equipGamma()}"
+  },
+  {
+    "region": "Left Vent",
+    "name": "Left Vent Camera",
+    "category": [
+      "Left Vent",
+      "Bosses"
+    ],
+    "requires": "{equipGamma()}"
+  },
+  {
+    "region": "Right Vent",
+    "name": "Right Vent Camera",
+    "category": [
+      "Right Vent",
+      "Bosses"
+    ],
+    "requires": "{equipGamma()}"
+  },
+  {
+    "name": "Office Camera",
+    "region": "Office",
+    "category": [
+      "Office",
+      "Bosses"
+    ],
+    "requires": "{equipOmega()}"
+  },
+  {
+    "name": "Protection Noisemaker Alpha",
+    "region": "Main Hall",
+    "category": [
+      "Main Hall",
+      "Bosses"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Protection Noisemaker Beta",
+    "region": "Party Room 3",
+    "category": [
+      "Party Room 3",
+      "Bosses"
+    ],
+    "requires": "{equipAlpha()}"
+  },
+  {
+    "name": "Protection Noisemaker Gamma",
+    "region": "Kids Cove",
+    "category": [
+      "Kids Cove",
+      "Bosses"
+    ],
+    "requires": "{equipBeta()}"
+  },
+  {
+    "name": "Protection Noisemaker Omega",
+    "region": "Office",
+    "category": [
+      "Office",
+      "Bosses"
+    ],
+    "requires": "{equipGamma()}"
+  },
+  {
+    "name": "Splash Woman",
+    "region": "Sewers",
+    "category": [
+      "Sewers",
+      "Bosses"
+    ],
+    "requires": "{equipBeta()}"
+  },
+  {
+    "name": "Kids Cove Camera",
+    "region": "Kids Cove",
+    "category": [
+      "Kids Cove",
+      "Bosses"
+    ],
+    "requires": "{equipGamma()}"
+  },
+  {
+    "name": "Withered Foxy",
+    "region": "Party Room 4",
+    "category": [
+      "Party Room 4",
+      "Bosses"
+    ],
+    "requires": "{equipGamma()}"
+  },
+  {
+    "name": "Withered Bonnie",
+    "region": "Party Room 1",
+    "category": [
+      "Party Room 1",
+      "Optional Bosses"
+    ],
+    "requires": "{equipOmega()}"
+  },
+  {
+    "name": "Withered Chica",
+    "region": "Party Room 2",
+    "category": [
+      "Party Room 2",
+      "Optional Bosses"
+    ],
+    "requires": "{equipOmega()}"
+  },
+  {
+    "name": "Withered Foxy 2",
+    "region": "Party Room 4",
+    "category": [
+      "Party Room 4",
+      "Optional Bosses"
+    ],
+    "requires": "{equipOmega()}"
+  },
+  {
+    "name": "Withered Freddy",
+    "region": "Party Room 3",
+    "category": [
+      "Party Room 3",
+      "Optional Bosses"
+    ],
+    "requires": "{equipOmega()}"
+  },
+  {
+    "name": "The Puppet",
+    "region": "Show Stage",
+    "category": [
+      "Show Stage",
+      "Bosses"
+    ],
+    "requires": "{equipGamma()}"
+  },
+  {
+    "name": "The Second Puppet",
+    "region": "Show Stage",
+    "category": [
+      "Show Stage",
+      "Optional Bosses"
+    ],
+    "requires": "{equipOmega()}"
+  },
+  {
+    "name": "Snoop Dogg/Tupac",
+    "region": "Office",
+    "category": [
+      "Office",
+      "Optional Bosses"
+    ],
+    "requires": "{equipOmega()}"
+  },
+  {
+    "name": "Toy Freddy (Boss)",
+    "region": "Main Hall",
+    "category": [
+      "Main Hall",
+      "Optional Bosses"
+    ],
+    "requires": "{equipReal()} AND {partyComplete()}"
+  },
+  {
+    "name": "Defeat BB",
+    "region": "Cave of the Past",
+    "category": [
+      "Goal"
+    ],
+    "requires": [],
+    "victory": true
+  },
+  {
+    "name": "BB",
+    "region": "Cave of the Past",
+    "category": [
+      "Cave of the Past",
+      "Final Bosses"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Defeat Refurbs",
+    "region": "Cave of the Past",
+    "category": [
+      "Goal"
+    ],
+    "requires": "{equipReal()} AND {partyComplete()} AND {canReachLocation(Complete Boss Rush)} AND |ICBM:2|",
+    "victory": true
+  },
+  {
+    "name": "Toy Freddy - Level 1",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Toy Freddy - Level 2",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Toy Freddy - Level 3",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Toy Freddy - Level 4",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Toy Freddy - Level 5",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Toy Freddy - Level 6",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipAlpha()}"
+  },
+  {
+    "name": "Toy Freddy - Level 7",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipAlpha()}"
+  },
+  {
+    "name": "Toy Freddy - Level 8",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipAlpha()}"
+  },
+  {
+    "name": "Toy Freddy - Level 9",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipAlpha()}"
+  },
+  {
+    "name": "Toy Freddy - Level 10",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipAlpha()}"
+  },
+  {
+    "name": "Toy Freddy - Level 11",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipBeta()}"
+  },
+  {
+    "name": "Toy Freddy - Level 12",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipBeta()}"
+  },
+  {
+    "name": "Toy Freddy - Level 13",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipBeta()}"
+  },
+  {
+    "name": "Toy Freddy - Level 14",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipBeta()}"
+  },
+  {
+    "name": "Toy Freddy - Level 15",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipBeta()}"
+  },
+  {
+    "name": "Toy Freddy - Level 16",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipGamma()}"
+  },
+  {
+    "name": "Toy Freddy - Level 17",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipGamma()}"
+  },
+  {
+    "name": "Toy Freddy - Level 18",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipGamma()}"
+  },
+  {
+    "name": "Toy Freddy - Level 19",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipGamma()}"
+  },
+  {
+    "name": "Toy Freddy - Level 20",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipGamma()}"
+  },
+  {
+    "name": "Toy Freddy - Level 21",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipOmega()}"
+  },
+  {
+    "name": "Toy Freddy - Level 22",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipOmega()}"
+  },
+  {
+    "name": "Toy Freddy - Level 23",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipOmega()}"
+  },
+  {
+    "name": "Toy Freddy - Level 24",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipOmega()}"
+  },
+  {
+    "name": "Toy Freddy - Level 25",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipOmega()}"
+  },
+  {
+    "name": "Toy Freddy - Level 26",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipOmega()}"
+  },
+  {
+    "name": "Toy Freddy - Level 27",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipOmega()}"
+  },
+  {
+    "name": "Toy Freddy - Level 28",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipOmega()}"
+  },
+  {
+    "name": "Toy Freddy - Level 29",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipOmega()}"
+  },
+  {
+    "name": "Toy Freddy - Level 30",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipOmega()}"
+  },
+  {
+    "name": "Toy Bonnie - Level 1",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Stick| AND |Toy Bonnie|"
+  },
+  {
+    "name": "Toy Bonnie - Level 2",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Stick| AND |Toy Bonnie|"
+  },
+  {
+    "name": "Toy Bonnie - Level 3",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Stick| AND |Toy Bonnie|"
+  },
+  {
+    "name": "Toy Bonnie - Level 4",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Stick| AND |Toy Bonnie|"
+  },
+  {
+    "name": "Toy Bonnie - Level 5",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Stick| AND |Toy Bonnie|"
+  },
+  {
+    "name": "Toy Bonnie - Level 6",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Stick| AND |Toy Bonnie| AND {equipAlpha()}"
+  },
+  {
+    "name": "Toy Bonnie - Level 7",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Stick| AND |Toy Bonnie| AND {equipAlpha()}"
+  },
+  {
+    "name": "Toy Bonnie - Level 8",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Stick| AND |Toy Bonnie| AND {equipAlpha()}"
+  },
+  {
+    "name": "Toy Bonnie - Level 9",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Stick| AND |Toy Bonnie| AND {equipAlpha()}"
+  },
+  {
+    "name": "Toy Bonnie - Level 10",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Stick| AND |Toy Bonnie| AND {equipAlpha()}"
+  },
+  {
+    "name": "Toy Bonnie - Level 11",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Stick| AND |Toy Bonnie| AND {equipBeta()}"
+  },
+  {
+    "name": "Toy Bonnie - Level 12",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Stick| AND |Toy Bonnie| AND {equipBeta()}"
+  },
+  {
+    "name": "Toy Bonnie - Level 13",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Stick| AND |Toy Bonnie| AND {equipBeta()}"
+  },
+  {
+    "name": "Toy Bonnie - Level 14",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Stick| AND |Toy Bonnie| AND {equipBeta()}"
+  },
+  {
+    "name": "Toy Bonnie - Level 15",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Stick| AND |Toy Bonnie| AND {equipBeta()}"
+  },
+  {
+    "name": "Toy Bonnie - Level 16",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Stick| AND |Toy Bonnie| AND {equipGamma()}"
+  },
+  {
+    "name": "Toy Bonnie - Level 17",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Stick| AND |Toy Bonnie| AND {equipGamma()}"
+  },
+  {
+    "name": "Toy Bonnie - Level 18",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Stick| AND |Toy Bonnie| AND {equipGamma()}"
+  },
+  {
+    "name": "Toy Bonnie - Level 19",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Stick| AND |Toy Bonnie| AND {equipGamma()}"
+  },
+  {
+    "name": "Toy Bonnie - Level 20",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Stick| AND |Toy Bonnie| AND {equipGamma()}"
+  },
+  {
+    "name": "Toy Bonnie - Level 21",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Stick| AND |Toy Bonnie| AND {equipOmega()}"
+  },
+  {
+    "name": "Toy Bonnie - Level 22",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Stick| AND |Toy Bonnie| AND {equipOmega()}"
+  },
+  {
+    "name": "Toy Bonnie - Level 23",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Stick| AND |Toy Bonnie| AND {equipOmega()}"
+  },
+  {
+    "name": "Toy Bonnie - Level 24",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Stick| AND |Toy Bonnie| AND {equipOmega()}"
+  },
+  {
+    "name": "Toy Bonnie - Level 25",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Stick| AND |Toy Bonnie| AND {equipOmega()}"
+  },
+  {
+    "name": "Toy Bonnie - Level 26",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Stick| AND |Toy Bonnie| AND {equipOmega()}"
+  },
+  {
+    "name": "Toy Bonnie - Level 27",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Stick| AND |Toy Bonnie| AND {equipOmega()}"
+  },
+  {
+    "name": "Toy Bonnie - Level 28",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Stick| AND |Toy Bonnie| AND {equipOmega()}"
+  },
+  {
+    "name": "Toy Bonnie - Level 29",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Stick| AND |Toy Bonnie| AND {equipOmega()}"
+  },
+  {
+    "name": "Toy Bonnie - Level 30",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Stick| AND |Toy Bonnie| AND {equipOmega()}"
+  },
+  {
+    "name": "Toy Chica - Level 1",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Progressive Cupcakes:1| AND |Toy Chica| AND {equipBeta()}"
+  },
+  {
+    "name": "Toy Chica - Level 2",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Progressive Cupcakes:1| AND |Toy Chica| AND {equipBeta()}"
+  },
+  {
+    "name": "Toy Chica - Level 3",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Progressive Cupcakes:1| AND |Toy Chica| AND {equipBeta()}"
+  },
+  {
+    "name": "Toy Chica - Level 4",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Progressive Cupcakes:1| AND |Toy Chica| AND {equipBeta()}"
+  },
+  {
+    "name": "Toy Chica - Level 5",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Progressive Cupcakes:1| AND |Toy Chica| AND {equipBeta()}"
+  },
+  {
+    "name": "Toy Chica - Level 6",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Progressive Cupcakes:1| AND |Toy Chica| AND {equipBeta()}"
+  },
+  {
+    "name": "Toy Chica - Level 7",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Progressive Cupcakes:1| AND |Toy Chica| AND {equipBeta()}"
+  },
+  {
+    "name": "Toy Chica - Level 8",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Progressive Cupcakes:1| AND |Toy Chica| AND {equipBeta()}"
+  },
+  {
+    "name": "Toy Chica - Level 9",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Progressive Cupcakes:1| AND |Toy Chica| AND {equipBeta()}"
+  },
+  {
+    "name": "Toy Chica - Level 10",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Progressive Cupcakes:1| AND |Toy Chica| AND {equipBeta()}"
+  },
+  {
+    "name": "Toy Chica - Level 11",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Progressive Cupcakes:1| AND |Toy Chica| AND {equipBeta()}"
+  },
+  {
+    "name": "Toy Chica - Level 12",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Progressive Cupcakes:1| AND |Toy Chica| AND {equipBeta()}"
+  },
+  {
+    "name": "Toy Chica - Level 13",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Progressive Cupcakes:1| AND |Toy Chica| AND {equipBeta()}"
+  },
+  {
+    "name": "Toy Chica - Level 14",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Progressive Cupcakes:1| AND |Toy Chica| AND {equipBeta()}"
+  },
+  {
+    "name": "Toy Chica - Level 15",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Progressive Cupcakes:1| AND |Toy Chica| AND {equipBeta()}"
+  },
+  {
+    "name": "Toy Chica - Level 16",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Progressive Cupcakes:1| AND |Toy Chica| AND {equipGamma()}"
+  },
+  {
+    "name": "Toy Chica - Level 17",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Progressive Cupcakes:1| AND |Toy Chica| AND {equipGamma()}"
+  },
+  {
+    "name": "Toy Chica - Level 18",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Progressive Cupcakes:1| AND |Toy Chica| AND {equipGamma()}"
+  },
+  {
+    "name": "Toy Chica - Level 19",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Progressive Cupcakes:1| AND |Toy Chica| AND {equipGamma()}"
+  },
+  {
+    "name": "Toy Chica - Level 20",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Progressive Cupcakes:1| AND |Toy Chica| AND {equipGamma()}"
+  },
+  {
+    "name": "Toy Chica - Level 21",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Progressive Cupcakes:1| AND |Toy Chica| AND {equipOmega()}"
+  },
+  {
+    "name": "Toy Chica - Level 22",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Progressive Cupcakes:1| AND |Toy Chica| AND {equipOmega()}"
+  },
+  {
+    "name": "Toy Chica - Level 23",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Progressive Cupcakes:1| AND |Toy Chica| AND {equipOmega()}"
+  },
+  {
+    "name": "Toy Chica - Level 24",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Progressive Cupcakes:1| AND |Toy Chica| AND {equipOmega()}"
+  },
+  {
+    "name": "Toy Chica - Level 25",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Progressive Cupcakes:1| AND |Toy Chica| AND {equipOmega()}"
+  },
+  {
+    "name": "Toy Chica - Level 26",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Progressive Cupcakes:1| AND |Toy Chica| AND {equipOmega()}"
+  },
+  {
+    "name": "Toy Chica - Level 27",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Progressive Cupcakes:1| AND |Toy Chica| AND {equipOmega()}"
+  },
+  {
+    "name": "Toy Chica - Level 28",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Progressive Cupcakes:1| AND |Toy Chica| AND {equipOmega()}"
+  },
+  {
+    "name": "Toy Chica - Level 29",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Progressive Cupcakes:1| AND |Toy Chica| AND {equipOmega()}"
+  },
+  {
+    "name": "Toy Chica - Level 30",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Progressive Cupcakes:1| AND |Toy Chica| AND {equipOmega()}"
+  },
+  {
+    "name": "Mangle - Level 1",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Sex Toy Voucher| AND |Sex Toy| AND |Mangle| AND {equipGamma()}"
+  },
+  {
+    "name": "Mangle - Level 2",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Sex Toy Voucher| AND |Sex Toy| AND |Mangle| AND {equipGamma()}"
+  },
+  {
+    "name": "Mangle - Level 3",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Sex Toy Voucher| AND |Sex Toy| AND |Mangle| AND {equipGamma()}"
+  },
+  {
+    "name": "Mangle - Level 4",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Sex Toy Voucher| AND |Sex Toy| AND |Mangle| AND {equipGamma()}"
+  },
+  {
+    "name": "Mangle - Level 5",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Sex Toy Voucher| AND |Sex Toy| AND |Mangle| AND {equipGamma()}"
+  },
+  {
+    "name": "Mangle - Level 6",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Sex Toy Voucher| AND |Sex Toy| AND |Mangle| AND {equipGamma()}"
+  },
+  {
+    "name": "Mangle - Level 7",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Sex Toy Voucher| AND |Sex Toy| AND |Mangle| AND {equipGamma()}"
+  },
+  {
+    "name": "Mangle - Level 8",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Sex Toy Voucher| AND |Sex Toy| AND |Mangle| AND {equipGamma()}"
+  },
+  {
+    "name": "Mangle - Level 9",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Sex Toy Voucher| AND |Sex Toy| AND |Mangle| AND {equipGamma()}"
+  },
+  {
+    "name": "Mangle - Level 10",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Sex Toy Voucher| AND |Sex Toy| AND |Mangle| AND {equipGamma()}"
+  },
+  {
+    "name": "Mangle - Level 11",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Sex Toy Voucher| AND |Sex Toy| AND |Mangle| AND {equipGamma()}"
+  },
+  {
+    "name": "Mangle - Level 12",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Sex Toy Voucher| AND |Sex Toy| AND |Mangle| AND {equipGamma()}"
+  },
+  {
+    "name": "Mangle - Level 13",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Sex Toy Voucher| AND |Sex Toy| AND |Mangle| AND {equipGamma()}"
+  },
+  {
+    "name": "Mangle - Level 14",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Sex Toy Voucher| AND |Sex Toy| AND |Mangle| AND {equipGamma()}"
+  },
+  {
+    "name": "Mangle - Level 15",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Sex Toy Voucher| AND |Sex Toy| AND |Mangle| AND {equipGamma()}"
+  },
+  {
+    "name": "Mangle - Level 16",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Sex Toy Voucher| AND |Sex Toy| AND |Mangle| AND {equipGamma()}"
+  },
+  {
+    "name": "Mangle - Level 17",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Sex Toy Voucher| AND |Sex Toy| AND |Mangle| AND {equipGamma()}"
+  },
+  {
+    "name": "Mangle - Level 18",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Sex Toy Voucher| AND |Sex Toy| AND |Mangle| AND {equipGamma()}"
+  },
+  {
+    "name": "Mangle - Level 19",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Sex Toy Voucher| AND |Sex Toy| AND |Mangle| AND {equipGamma()}"
+  },
+  {
+    "name": "Mangle - Level 20",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Sex Toy Voucher| AND |Sex Toy| AND |Mangle| AND {equipGamma()}"
+  },
+  {
+    "name": "Mangle - Level 21",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Sex Toy Voucher| AND |Sex Toy| AND |Mangle| AND {equipOmega()}"
+  },
+  {
+    "name": "Mangle - Level 22",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Sex Toy Voucher| AND |Sex Toy| AND |Mangle| AND {equipOmega()}"
+  },
+  {
+    "name": "Mangle - Level 23",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Sex Toy Voucher| AND |Sex Toy| AND |Mangle| AND {equipOmega()}"
+  },
+  {
+    "name": "Mangle - Level 24",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Sex Toy Voucher| AND |Sex Toy| AND |Mangle| AND {equipOmega()}"
+  },
+  {
+    "name": "Mangle - Level 25",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Sex Toy Voucher| AND |Sex Toy| AND |Mangle| AND {equipOmega()}"
+  },
+  {
+    "name": "Mangle - Level 26",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Sex Toy Voucher| AND |Sex Toy| AND |Mangle| AND {equipOmega()}"
+  },
+  {
+    "name": "Mangle - Level 27",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Sex Toy Voucher| AND |Sex Toy| AND |Mangle| AND {equipOmega()}"
+  },
+  {
+    "name": "Mangle - Level 28",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Sex Toy Voucher| AND |Sex Toy| AND |Mangle| AND {equipOmega()}"
+  },
+  {
+    "name": "Mangle - Level 29",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Sex Toy Voucher| AND |Sex Toy| AND |Mangle| AND {equipOmega()}"
+  },
+  {
+    "name": "Mangle - Level 30",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "|Sex Toy Voucher| AND |Sex Toy| AND |Mangle| AND {equipOmega()}"
+  },
+  {
+    "name": "Main Hall BB - Item 1",
+    "region": "Main Hall",
+    "category": [
+      "BB's Shop",
+      "Main Hall"
+    ],
+    "requires": "{canReachLocation(Protection Noisemaker Alpha)}"
+  },
+  {
+    "name": "Main Hall BB - Item 2",
+    "region": "Main Hall",
+    "category": [
+      "BB's Shop",
+      "Main Hall"
+    ],
+    "requires": "{canReachLocation(Protection Noisemaker Alpha)}"
+  },
+  {
+    "name": "Main Hall BB - Item 3",
+    "region": "Main Hall",
+    "category": [
+      "BB's Shop",
+      "Main Hall"
+    ],
+    "requires": "{canReachLocation(Protection Noisemaker Alpha)}"
+  },
+  {
+    "name": "Main Hall BB - Item 4",
+    "region": "Main Hall",
+    "category": [
+      "BB's Shop",
+      "Main Hall"
+    ],
+    "requires": "{canReachLocation(Protection Noisemaker Alpha)}"
+  },
+  {
+    "name": "Main Hall BB - Item 5",
+    "region": "Main Hall",
+    "category": [
+      "BB's Shop",
+      "Main Hall"
+    ],
+    "requires": "{canReachLocation(Protection Noisemaker Alpha)}"
+  },
+  {
+    "name": "Main Hall BB - Item 6",
+    "region": "Main Hall",
+    "category": [
+      "BB's Shop",
+      "Main Hall"
+    ],
+    "requires": "{canReachLocation(Protection Noisemaker Alpha)}"
+  },
+  {
+    "name": "Main Hall BB - Item 7",
+    "region": "Main Hall",
+    "category": [
+      "BB's Shop",
+      "Main Hall"
+    ],
+    "requires": "{canReachLocation(Protection Noisemaker Alpha)}"
+  },
+  {
+    "name": "Main Hall BB - Item 8",
+    "region": "Main Hall",
+    "category": [
+      "BB's Shop",
+      "Main Hall"
+    ],
+    "requires": "{canReachLocation(Protection Noisemaker Alpha)}"
+  },
+  {
+    "name": "Main Hall BB - Item 9",
+    "region": "Main Hall",
+    "category": [
+      "BB's Shop",
+      "Main Hall"
+    ],
+    "requires": "{canReachLocation(Protection Noisemaker Alpha)}"
+  },
+  {
+    "name": "Main Hall BB - Item 10",
+    "region": "Main Hall",
+    "category": [
+      "BB's Shop",
+      "Main Hall"
+    ],
+    "requires": "{canReachLocation(Protection Noisemaker Alpha)}"
+  },
+  {
+    "name": "Party Room 3 BB - Item 1",
+    "region": "Party Room 3",
+    "category": [
+      "BB's Shop",
+      "Party Room 3"
+    ],
+    "requires": "{canReachLocation(Protection Noisemaker Beta)}"
+  },
+  {
+    "name": "Party Room 3 BB - Item 2",
+    "region": "Party Room 3",
+    "category": [
+      "BB's Shop",
+      "Party Room 3"
+    ],
+    "requires": "{canReachLocation(Protection Noisemaker Beta)}"
+  },
+  {
+    "name": "Party Room 3 BB - Item 3",
+    "region": "Party Room 3",
+    "category": [
+      "BB's Shop",
+      "Party Room 3"
+    ],
+    "requires": "{canReachLocation(Protection Noisemaker Beta)}"
+  },
+  {
+    "name": "Party Room 3 BB - Item 4",
+    "region": "Party Room 3",
+    "category": [
+      "BB's Shop",
+      "Party Room 3"
+    ],
+    "requires": "{canReachLocation(Protection Noisemaker Beta)}"
+  },
+  {
+    "name": "Party Room 3 BB - Item 5",
+    "region": "Party Room 3",
+    "category": [
+      "BB's Shop",
+      "Party Room 3"
+    ],
+    "requires": "{canReachLocation(Protection Noisemaker Beta)}"
+  },
+  {
+    "name": "Party Room 3 BB - Item 6",
+    "region": "Party Room 3",
+    "category": [
+      "BB's Shop",
+      "Party Room 3"
+    ],
+    "requires": "{canReachLocation(Protection Noisemaker Beta)}"
+  },
+  {
+    "name": "Party Room 3 BB - Item 7",
+    "region": "Party Room 3",
+    "category": [
+      "BB's Shop",
+      "Party Room 3"
+    ],
+    "requires": "{canReachLocation(Protection Noisemaker Beta)}"
+  },
+  {
+    "name": "Party Room 3 BB - Item 8",
+    "region": "Party Room 3",
+    "category": [
+      "BB's Shop",
+      "Party Room 3"
+    ],
+    "requires": "{canReachLocation(Protection Noisemaker Beta)}"
+  },
+  {
+    "name": "Party Room 3 BB - Item 9",
+    "region": "Party Room 3",
+    "category": [
+      "BB's Shop",
+      "Party Room 3"
+    ],
+    "requires": "{canReachLocation(Protection Noisemaker Beta)}"
+  },
+  {
+    "name": "Party Room 3 BB - Item 10",
+    "region": "Party Room 3",
+    "category": [
+      "BB's Shop",
+      "Party Room 3"
+    ],
+    "requires": "{canReachLocation(Protection Noisemaker Beta)}"
+  },
+  {
+    "name": "Kids Cove BB - Item 1",
+    "region": "Kids Cove",
+    "category": [
+      "BB's Shop",
+      "Kids Cove"
+    ],
+    "requires": "{canReachLocation(Protection Noisemaker Gamma)}"
+  },
+  {
+    "name": "Kids Cove BB - Item 2",
+    "region": "Kids Cove",
+    "category": [
+      "BB's Shop",
+      "Kids Cove"
+    ],
+    "requires": "{canReachLocation(Protection Noisemaker Gamma)}"
+  },
+  {
+    "name": "Kids Cove BB - Item 3",
+    "region": "Kids Cove",
+    "category": [
+      "BB's Shop",
+      "Kids Cove"
+    ],
+    "requires": "{canReachLocation(Protection Noisemaker Gamma)}"
+  },
+  {
+    "name": "Kids Cove BB - Item 4",
+    "region": "Kids Cove",
+    "category": [
+      "BB's Shop",
+      "Kids Cove"
+    ],
+    "requires": "{canReachLocation(Protection Noisemaker Gamma)}"
+  },
+  {
+    "name": "Kids Cove BB - Item 5",
+    "region": "Kids Cove",
+    "category": [
+      "BB's Shop",
+      "Kids Cove"
+    ],
+    "requires": "{canReachLocation(Protection Noisemaker Gamma)}"
+  },
+  {
+    "name": "Kids Cove BB - Item 6",
+    "region": "Kids Cove",
+    "category": [
+      "BB's Shop",
+      "Kids Cove"
+    ],
+    "requires": "{canReachLocation(Protection Noisemaker Gamma)}"
+  },
+  {
+    "name": "Kids Cove BB - Item 7",
+    "region": "Kids Cove",
+    "category": [
+      "BB's Shop",
+      "Kids Cove"
+    ],
+    "requires": "{canReachLocation(Protection Noisemaker Gamma)}"
+  },
+  {
+    "name": "Kids Cove BB - Item 8",
+    "region": "Kids Cove",
+    "category": [
+      "BB's Shop",
+      "Kids Cove"
+    ],
+    "requires": "{canReachLocation(Protection Noisemaker Gamma)}"
+  },
+  {
+    "name": "Kids Cove BB - Item 9",
+    "region": "Kids Cove",
+    "category": [
+      "BB's Shop",
+      "Kids Cove"
+    ],
+    "requires": "{canReachLocation(Protection Noisemaker Gamma)}"
+  },
+  {
+    "name": "Kids Cove BB - Item 10",
+    "region": "Kids Cove",
+    "category": [
+      "BB's Shop",
+      "Kids Cove"
+    ],
+    "requires": "{canReachLocation(Protection Noisemaker Gamma)}"
+  },
+  {
+    "name": "Office BB - Item 1",
+    "region": "Office",
+    "category": [
+      "BB's Shop",
+      "Office"
+    ],
+    "requires": "{canReachLocation(Protection Noisemaker Omega)}"
+  },
+  {
+    "name": "Office BB - Item 2",
+    "region": "Office",
+    "category": [
+      "BB's Shop",
+      "Office"
+    ],
+    "requires": "{canReachLocation(Protection Noisemaker Omega)}"
+  },
+  {
+    "name": "Office BB - Item 3",
+    "region": "Office",
+    "category": [
+      "BB's Shop",
+      "Office"
+    ],
+    "requires": "{canReachLocation(Protection Noisemaker Omega)}"
+  },
+  {
+    "name": "Office BB - Item 4",
+    "region": "Office",
+    "category": [
+      "BB's Shop",
+      "Office"
+    ],
+    "requires": "{canReachLocation(Protection Noisemaker Omega)}"
+  },
+  {
+    "name": "Office BB - Item 5",
+    "region": "Office",
+    "category": [
+      "BB's Shop",
+      "Office"
+    ],
+    "requires": "{canReachLocation(Protection Noisemaker Omega)}"
+  },
+  {
+    "name": "Office BB - Item 6",
+    "region": "Office",
+    "category": [
+      "BB's Shop",
+      "Office"
+    ],
+    "requires": "{canReachLocation(Protection Noisemaker Omega)}"
+  },
+  {
+    "name": "Office BB - Item 7",
+    "region": "Office",
+    "category": [
+      "BB's Shop",
+      "Office"
+    ],
+    "requires": "{canReachLocation(Protection Noisemaker Omega)}"
+  },
+  {
+    "name": "Office BB - Item 8",
+    "region": "Office",
+    "category": [
+      "BB's Shop",
+      "Office"
+    ],
+    "requires": "{canReachLocation(Protection Noisemaker Omega)}"
+  },
+  {
+    "name": "Office BB - Item 9",
+    "region": "Office",
+    "category": [
+      "BB's Shop",
+      "Office"
+    ],
+    "requires": "{canReachLocation(Protection Noisemaker Omega)}"
+  },
+  {
+    "name": "Office BB - Item 10",
+    "region": "Office",
+    "category": [
+      "BB's Shop",
+      "Office"
+    ],
+    "requires": "{canReachLocation(Protection Noisemaker Omega)}"
+  },
+  {
+    "name": "Shadow Bonnie",
+    "region": "Men's Bathroom",
+    "category": [
+      "Men's Bathroom",
+      "Optional Bosses"
+    ],
+    "requires": "|Toy Bonnie| AND {equipReal()}"
+  },
+  {
+    "name": "Freddy Plush",
+    "region": "???",
+    "category": [
+      "Optional Bosses"
+    ],
+    "requires": "{equipReal()}"
+  },
+  {
+    "name": "Withered Golden Freddy",
+    "region": "???",
+    "category": [
+      "Optional Bosses"
+    ],
+    "requires": "{equipReal()} AND {partyAlmostComplete()}"
+  },
+  {
+    "name": "Office Camera (Boss Rush)",
+    "region": "Parts and Service",
+    "category": [
+      "Parts and Service",
+      "Optional Bosses",
+      "Boss Rush"
+    ],
+    "requires": "{equipReal()} AND {partyComplete()}"
+  },
+  {
+    "name": "The Second Puppet (Boss Rush)",
+    "region": "Parts and Service",
+    "category": [
+      "Parts and Service",
+      "Optional Bosses",
+      "Boss Rush"
+    ],
+    "requires": "{equipReal()} AND {partyComplete()}"
+  },
+  {
+    "name": "Freddy Plush (Boss Rush)",
+    "region": "Parts and Service",
+    "category": [
+      "Parts and Service",
+      "Optional Bosses",
+      "Boss Rush"
+    ],
+    "requires": "{equipReal()} AND {partyComplete()}"
+  },
+  {
+    "name": "Giygas BB (Boss Rush)",
+    "region": "Parts and Service",
+    "category": [
+      "Parts and Service",
+      "Optional Bosses",
+      "Boss Rush"
+    ],
+    "requires": "{equipReal()} AND {partyComplete()}"
+  },
+  {
+    "name": "Complete Boss Rush",
+    "region": "Parts and Service",
+    "category": [
+      "Parts and Service",
+      "Optional Bosses",
+      "Boss Rush"
+    ],
+    "requires": "{equipReal()} AND {partyComplete()}"
+  }
+]

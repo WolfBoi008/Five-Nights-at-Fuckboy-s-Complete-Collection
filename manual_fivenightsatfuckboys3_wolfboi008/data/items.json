@@ -1,0 +1,227 @@
+[
+  {
+    "count": 1,
+    "name": "Small Pizza",
+    "category": [
+      "Filler Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Medium Pizza",
+    "category": [
+      "Filler Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Large Pizza",
+    "category": [
+      "Filler Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "XL Pizza",
+    "category": [
+      "Filler Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Small Soda",
+    "category": [
+      "Filler Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Medium Soda",
+    "category": [
+      "Filler Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Large Soda",
+    "category": [
+      "Filler Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "XL Soda",
+    "category": [
+      "Filler Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Tokens",
+    "category": [
+      "Filler Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 4,
+    "name": "Progressive Whip",
+    "category": [
+      "Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 4,
+    "name": "Progressive Coils",
+    "category": [
+      "Armor"
+    ],
+    "progression": true
+  },
+  {
+    "count": 3,
+    "name": "Progressive Leftovers",
+    "category": [
+      "Trinkets"
+    ],
+    "useful": true
+  },
+  {
+    "count": 3,
+    "name": "Progressive Energy",
+    "category": [
+      "Trinkets"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Vacuum",
+    "category": [
+      "Key Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Blanket",
+    "category": [
+      "Key Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tape",
+    "category": [
+      "Key Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Poster",
+    "category": [
+      "Key Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Toy Freddy Head",
+    "category": [
+      "Key Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Auto-Slice",
+    "category": [
+      "Trinkets"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Auto-Can",
+    "category": [
+      "Trinkets"
+    ],
+    "useful": true
+  },
+  {
+    "count": 4,
+    "name": "Secret Report",
+    "category": [
+      "Key Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Esoteric Sex Toy",
+    "_comment": "The shit I type for Manuals sometimes...",
+    "category": [
+      "Key Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Auto-Anima",
+    "category": [
+      "Trinkets"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Freddy & Friends Blanket",
+    "category": [
+      "Key Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Counter Shield",
+    "category": [
+      "Trinkets"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Reserve Power",
+    "category": [
+      "Trinkets"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Auto-Aegis",
+    "category": [
+      "Trinkets"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Auto-Auda",
+    "category": [
+      "Trinkets"
+    ],
+    "useful": true
+  }
+]

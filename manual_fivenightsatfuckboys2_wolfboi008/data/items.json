@@ -1,0 +1,258 @@
+[
+  {
+    "count": "5",
+    "name": "Small Pizza",
+    "category": [
+      "Consumables"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "Medium Pizza",
+    "category": [
+      "Consumables"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "Large Pizza",
+    "category": [
+      "Consumables"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "X-Large Pizza",
+    "category": [
+      "Consumables"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "Small Soda",
+    "category": [
+      "Consumables"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "Medium Soda",
+    "category": [
+      "Consumables"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "Large Soda",
+    "category": [
+      "Consumables"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "X-Large Soda",
+    "category": [
+      "Consumables"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "Birthday Present",
+    "category": [
+      "Consumables"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "Cake",
+    "category": [
+      "Consumables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Sex Toy Voucher",
+    "category": [
+      "Key Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sex Toy",
+    "category": [
+      "Key Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": "5",
+    "name": "Progressive Microphone",
+    "category": [
+      "Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": "5",
+    "name": "Progressive Guitar",
+    "category": [
+      "Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": "5",
+    "name": "Progressive Cupcakes",
+    "category": [
+      "Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": "5",
+    "name": "Progressive Hook",
+    "category": [
+      "Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Stick",
+    "category": [
+      "Key Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": "4",
+    "name": "Progressive Pizza Shields",
+    "category": [
+      "\"Armor\""
+    ],
+    "progression": true
+  },
+  {
+    "count": "5",
+    "name": "Progressive Head Endoskeletons",
+    "category": [
+      "\"Armor\""
+    ],
+    "progression": true
+  },
+  {
+    "count": "5",
+    "name": "Progressive Body Endoskeletons",
+    "category": [
+      "\"Armor\""
+    ],
+    "progression": true
+  },
+  {
+    "count": "4",
+    "name": "Progressive Caffeine Sodas",
+    "category": [
+      "\"Armor\""
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Toy Bonnie",
+    "category": [
+      "Party Members"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Toy Chica",
+    "category": [
+      "Party Members"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mangle",
+    "category": [
+      "Party Members"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Withered Freddy",
+    "category": [
+      "Party Members"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Withered Bonnie",
+    "category": [
+      "Party Members"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Withered Chica",
+    "category": [
+      "Party Members"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Withered Foxy",
+    "category": [
+      "Party Members"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cerberus Dildo",
+    "category": [
+      "Weapons"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Dragon Dildo",
+    "category": [
+      "Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Withered Golden Freddy",
+    "category": [
+      "Party Members"
+    ],
+    "progression": true
+  },
+  {
+    "count": 2,
+    "name": "ICBM",
+    "category": [
+      "Key Items"
+    ],
+    "progression": true
+  }
+]

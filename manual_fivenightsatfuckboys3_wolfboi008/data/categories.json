@@ -1,0 +1,12 @@
+{
+    "Optional Bosses": {
+        "yaml_option": ["optional_bosses"]
+    },
+    "Optional Skills": {
+        "yaml_option": ["optional_skills"],
+        "hidden": true
+    },
+    "Levelsanity": {
+        "yaml_option": ["levelsanity"]
+    }
+}

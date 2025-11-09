@@ -1,0 +1,53 @@
+{
+  "Show Stage": {
+
+  },
+  "Dining Area": {
+
+  },
+  "Backroom": {
+
+  },
+  "Restrooms": {
+
+  },
+  "Pirate Cove": {
+
+  },
+  "West Hall": {
+
+  },
+  "East Hall": {
+
+  },
+  "Supply Closet": {
+
+  },
+  "West Hall Corner": {
+
+  },
+  "East Hall Corner": {
+
+  },
+  "Office": {
+    "requires": "{equipOmega()}"
+  },
+  "Interior Walls 1st Floor": {
+    "requires": "{accessDungeon()}"
+  },
+  "Interior Walls 2nd Floor": {
+    "requires": "{accessDungeon()}"
+  },
+  "Interior Walls 3rd Floor": {
+    "requires": "{accessDungeon()}"
+  },
+  "BB": {
+
+  },
+  "Kitchen": {
+    "requires": "|Kitchen Key|"
+  },
+  "Levelsanity": {
+
+  }
+}

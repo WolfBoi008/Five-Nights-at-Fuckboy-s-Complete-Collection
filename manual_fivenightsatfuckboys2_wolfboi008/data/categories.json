@@ -1,0 +1,8 @@
+{
+    "Optional Bosses": {
+        "yaml_option": ["optional_bosses"]
+    },
+    "Levelsanity": {
+        "yaml_option": ["levelsanity"]
+    }
+}

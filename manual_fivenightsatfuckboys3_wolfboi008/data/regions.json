@@ -1,0 +1,115 @@
+{
+  "Cam 1": {
+    "starting": true,
+    "connects_to": [],
+    "requires": []
+  },
+  "Cam 2": {
+    "starting": true,
+    "connects_to": [],
+    "requires": []
+  },
+  "Cam 3": {
+    "starting": true,
+    "connects_to": [],
+    "requires": []
+  },
+  "Cam 4": {
+    "starting": true,
+    "connects_to": [],
+    "requires": []
+  },
+  "Cam 5": {
+    "starting": true,
+    "connects_to": [],
+    "requires": []
+  },
+  "Cam 6": {
+    "starting": true,
+    "connects_to": [],
+    "requires": []
+  },
+  "Cam 7": {
+    "starting": true,
+    "connects_to": [],
+    "requires": []
+  },
+  "Cam 8": {
+    "starting": true,
+    "connects_to": [
+      "Atari Land Show Stage"
+    ],
+    "requires": []
+  },
+  "Cam 9": {
+    "starting": true,
+    "connects_to": [],
+    "requires": []
+  },
+  "Cam 10": {
+    "starting": true,
+    "connects_to": [
+      "Vents"
+    ],
+    "requires": []
+  },
+  "Office Hall": {
+    "starting": true,
+    "connects_to": [],
+    "requires": []
+  },
+  "Vents": {
+    "connects_to": [],
+    "requires": "{canReachLocation(Phantom Freddy)}"
+  },
+  "Atari Land Show Stage": {
+    "connects_to": [
+      "Atari Land Backroom",
+      "Atari Land Pirate Cove",
+      "Atari Land West Hall",
+      "Atari Land West Hall Corner",
+      "Atari Land Office",
+      "Atari Land East Hall Corner",
+      "Atari Land East Hall",
+      "Atari Land Bathroom"
+    ],
+    "requires": "{canReachLocation(The Beast)} AND |Toy Freddy Head|"
+  },
+  "Atari Land Backroom": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Atari Land Pirate Cove": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Atari Land West Hall": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Atari Land West Hall Corner": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Atari Land Office": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Atari Land East Hall Corner": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Atari Land East Hall": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Atari Land Bathroom": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Levelsanity": {
+    "starting": true,
+    "connects_to": [],
+    "requires": []
+  }
+}

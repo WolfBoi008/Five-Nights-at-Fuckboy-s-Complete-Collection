@@ -1,0 +1,74 @@
+{
+  "Show Stage": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Kids Cove": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Main Hall": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Parts and Service": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Men's Bathroom": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Women's Bathroom": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Sewers": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Office Hall": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Party Room 1": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Party Room 2": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Party Room 3": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Party Room 4": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Left Vent": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Right Vent": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Office": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Cave of the Past": {
+    "connects_to": [],
+    "requires": "{partyAllToys()} AND {equipOmega()} AND |Dragon Dildo|"
+  },
+  "Levelsanity": {
+    "connects_to": [],
+    "requires": []
+  },
+  "???": {
+    "connects_to": [],
+    "requires": []
+  }
+}

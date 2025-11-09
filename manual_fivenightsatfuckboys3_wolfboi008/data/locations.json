@@ -1,0 +1,1270 @@
+[
+  {
+    "name": "Get Run Over",
+    "region": "Cam 10",
+    "category": [
+      "Cam 10",
+      "Events"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Medium Pizza Near Phantom BB",
+    "region": "Cam 8",
+    "category": [
+      "Cam 8",
+      "Items"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Medium Soda Near Phantom BB",
+    "region": "Cam 8",
+    "category": [
+      "Cam 8",
+      "Items"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Enemies Surrounding BB",
+    "region": "Cam 8",
+    "category": [
+      "Cam 8",
+      "Bosses"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Punch the fuck out of the Poster",
+    "_comment": "Literally takes like 1000 punches for an achievement. Other than that, the poster ain't coming down until you can make the 'licensed merchandise' for Foxy, or you're Golden Freddy in Act 2.",
+    "region": "Cam 7",
+    "category": [
+      "Cam 7",
+      "Events"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Obtain Vacuum",
+    "region": "Cam 2",
+    "category": [
+      "Cam 2",
+      "Key Items"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Obtain Blanket",
+    "region": "Cam 2",
+    "category": [
+      "Cam 2",
+      "Key Items"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Obtain Poster",
+    "_comment": "You get the Poster if you punch it after getting the Blanket.",
+    "region": "Cam 7",
+    "category": [
+      "Cam 7",
+      "Key Items"
+    ],
+    "requires": "|Blanket|"
+  },
+  {
+    "name": "The Beast",
+    "region": "Cam 7",
+    "category": [
+      "Cam 7",
+      "Bosses"
+    ],
+    "requires": "{equipIron()}"
+  },
+  {
+    "name": "Obtain Toy Freddy Head",
+    "region": "Cam 7",
+    "category": [
+      "Cam 7",
+      "Key Items"
+    ],
+    "requires": "{canReachLocation(The Beast)}"
+  },
+  {
+    "name": "Give Toy Freddy Head to Chica",
+    "region": "Cam 8",
+    "category": [
+      "Cam 8",
+      "Events"
+    ],
+    "requires": "{canReachLocation(The Beast)} AND |Toy Freddy Head|"
+  },
+  {
+    "name": "Get Crunk (Atari Edition)",
+    "region": "Atari Land Show Stage",
+    "category": [
+      "Atari Land Show Stage",
+      "Events"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Show Stage Camera",
+    "region": "Atari Land Show Stage",
+    "category": [
+      "Atari Land Show Stage",
+      "Bosses"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Obtain Auto-Slice",
+    "region": "Atari Land Show Stage",
+    "category": [
+      "Atari Land Show Stage",
+      "Items"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Obtain Auto-Can",
+    "region": "Atari Land Show Stage",
+    "category": [
+      "Atari Land Show Stage",
+      "Items"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Phantom Chica",
+    "region": "Atari Land Bathroom",
+    "category": [
+      "Atari Land Bathroom",
+      "Bosses"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Obtain Secret Report #1",
+    "region": "Atari Land Bathroom",
+    "category": [
+      "Atari Land Bathroom",
+      "Key Items"
+    ],
+    "requires": "{canReachLocation(Phantom Chica)}"
+  },
+  {
+    "name": "Learn Phantom Healing",
+    "region": "Atari Land Bathroom",
+    "category": [
+      "Atari Land Bathroom",
+      "Skills"
+    ],
+    "requires": "{canReachLocation(Phantom Chica)}"
+  },
+  {
+    "name": "Meet Lefty and Helpy",
+    "region": "Cam 10",
+    "category": [
+      "Cam 10",
+      "Events"
+    ],
+    "requires": "{canReachLocation(Phantom Chica)}"
+  },
+  {
+    "name": "Protection Hat Alpha",
+    "region": "Cam 6",
+    "category": [
+      "Cam 6",
+      "Bosses"
+    ],
+    "requires": "{canReachLocation(Phantom Chica)}"
+  },
+  {
+    "name": "Trash and the Gang",
+    "region": "Cam 8",
+    "category": [
+      "Cam 8",
+      "Optional Bosses"
+    ],
+    "requires": "{canReachLocation(Phantom Chica)}"
+  },
+  {
+    "name": "Learn Second Wind",
+    "region": "Cam 8",
+    "category": [
+      "Cam 8",
+      "Optional Skills"
+    ],
+    "requires": "{canReachLocation(Phantom Chica)}"
+  },
+  {
+    "name": "Take Creative Liberties",
+    "region": "Cam 7",
+    "category": [
+      "Cam 7",
+      "Events"
+    ],
+    "requires": "{equipBronze()}"
+  },
+  {
+    "name": "Phantom Endo Head",
+    "region": "Cam 7",
+    "category": [
+      "Cam 7",
+      "Bosses"
+    ],
+    "requires": "{equipBronze()}"
+  },
+  {
+    "name": "Esoteric Sex Toy",
+    "region": "Cam 7",
+    "category": [
+      "Cam 7",
+      "Key Items"
+    ],
+    "requires": "{equipBronze()}"
+  },
+  {
+    "name": "Give Esoteric Sex Toy to Mangle",
+    "region": "Cam 6",
+    "category": [
+      "Cam 6",
+      "Events"
+    ],
+    "requires": "{equipBronze()} AND |Esoteric Sex Toy|"
+  },
+  {
+    "name": "Backroom Camera",
+    "region": "Atari Land Backroom",
+    "category": [
+      "Atari Land Backroom",
+      "Bosses"
+    ],
+    "requires": "{equipBronze()}"
+  },
+  {
+    "name": "Obtain Auto-Anima",
+    "region": "Atari Land Backroom",
+    "category": [
+      "Atari Land Backroom",
+      "Items"
+    ],
+    "requires": "{equipBronze()}"
+  },
+  {
+    "name": "Phantom Mangle",
+    "region": "Atari Land Backroom",
+    "category": [
+      "Atari Land Backroom",
+      "Bosses"
+    ],
+    "requires": "{equipBronze()} AND |Esoteric Sex Toy|"
+  },
+  {
+    "name": "Obtain Secret Report #2",
+    "region": "Atari Land Backroom",
+    "category": [
+      "Atari Land Backroom",
+      "Key Items"
+    ],
+    "requires": "{equipBronze()} AND |Esoteric Sex Toy|"
+  },
+  {
+    "name": "Learn Phantom Volt",
+    "region": "Atari Land Backroom",
+    "category": [
+      "Atari Land Backroom",
+      "Skills"
+    ],
+    "requires": "{equipBronze()} AND |Esoteric Sex Toy|"
+  },
+  {
+    "name": "Rockstar Freddy",
+    "region": "Cam 5",
+    "category": [
+      "Cam 5",
+      "Optional Bosses"
+    ],
+    "requires": "{canReachLocation(Phantom Mangle)}"
+  },
+  {
+    "name": "Learn Exact Sight",
+    "region": "Cam 5",
+    "category": [
+      "Cam 5",
+      "Optional Skills"
+    ],
+    "requires": "{canReachLocation(Phantom Mangle)}"
+  },
+  {
+    "name": "Protection Hat Beta",
+    "region": "Cam 2",
+    "category": [
+      "Cam 2",
+      "Bosses"
+    ],
+    "requires": "{canReachLocation(Phantom Mangle)}"
+  },
+  {
+    "name": "Filth",
+    "region": "Cam 3",
+    "category": [
+      "Cam 3",
+      "Bosses"
+    ],
+    "requires": "{equipSilver()}"
+  },
+  {
+    "name": "Obtain Tape",
+    "region": "Cam 3",
+    "category": [
+      "Cam 3",
+      "Key Items"
+    ],
+    "requires": "{equipSilver()}"
+  },
+  {
+    "name": "Obtain Freddy & Friends Blanket",
+    "region": "Cam 3",
+    "category": [
+      "Cam 3",
+      "Key Items"
+    ],
+    "requires": "|Poster| AND |Blanket| AND |Tape| AND {canReachLocation(Filth)}"
+  },
+  {
+    "name": "Give Freddy & Friends Blanket to Foxy",
+    "region": "Cam 4",
+    "category": [
+      "Cam 4",
+      "Events"
+    ],
+    "requires": "|Poster| AND |Blanket| AND |Tape| AND {canReachLocation(Filth)} AND |Freddy & Friends Blanket|"
+  },
+  {
+    "name": "Pirate Cove Camera",
+    "region": "Atari Land Pirate Cove",
+    "category": [
+      "Atari Land Pirate Cove",
+      "Bosses"
+    ],
+    "requires": "{equipSilver()}"
+  },
+  {
+    "name": "Obtain Counter Shield",
+    "region": "Atari Land Pirate Cove",
+    "category": [
+      "Atari Land Pirate Cove",
+      "Items"
+    ],
+    "requires": "{equipSilver()}"
+  },
+  {
+    "name": "Obtain Reserve Power",
+    "region": "Atari Land Pirate Cove",
+    "category": [
+      "Atari Land Pirate Cove",
+      "Items"
+    ],
+    "requires": "{equipSilver()}"
+  },
+  {
+    "name": "Phantom Foxy",
+    "region": "Atari Land Pirate Cove",
+    "category": [
+      "Atari Land Pirate Cove",
+      "Bosses"
+    ],
+    "requires": "{equipSilver()} AND {canReachLocation(Give Freddy & Friends Blanket to Foxy)}"
+  },
+  {
+    "name": "Obtain Secret Report #3",
+    "region": "Atari Land Pirate Cove",
+    "category": [
+      "Atari Land Pirate Cove",
+      "Bosses"
+    ],
+    "requires": "{canReachLocation(Phantom Foxy)}"
+  },
+  {
+    "name": "Learn Phantom Lunge",
+    "region": "Atari Land Pirate Cove",
+    "category": [
+      "Atari Land Pirate Cove",
+      "Skills"
+    ],
+    "requires": "{canReachLocation(Phantom Foxy)}"
+  },
+  {
+    "name": "Music Man",
+    "region": "Cam 2",
+    "category": [
+      "Cam 2",
+      "Optional Bosses"
+    ],
+    "requires": "{canReachLocation(Phantom Foxy)}"
+  },
+  {
+    "name": "Circus Rift",
+    "region": "Cam 2",
+    "category": [
+      "Cam 2",
+      "Optional Skills"
+    ],
+    "requires": "{canReachLocation(Phantom Foxy)}"
+  },
+  {
+    "name": "Defeat (or Lose To) Phantom Puppet",
+    "region": "Cam 8",
+    "category": [
+      "Cam 8",
+      "Bosses"
+    ],
+    "requires": "{canReachLocation(Phantom Foxy)}"
+  },
+  {
+    "name": "Learn Phantom Wind",
+    "_comment": "Whether you deserve it or not, you still get it. Don't complain, just take it.",
+    "region": "Cam 8",
+    "category": [
+      "Cam 8",
+      "Skills"
+    ],
+    "requires": "{canReachLocation(Phantom Foxy)}"
+  },
+  {
+    "name": "The Marionette",
+    "region": "Cam 8",
+    "category": [
+      "Cam 8",
+      "Optional Bosses"
+    ],
+    "requires": "{equipGold()}"
+  },
+  {
+    "name": "Protection Hat Gamma",
+    "region": "Cam 1",
+    "category": [
+      "Cam 1",
+      "Bosses"
+    ],
+    "requires": "{canReachLocation(Phantom Foxy)}"
+  },
+  {
+    "name": "The Tophat",
+    "region": "Cam 1",
+    "category": [
+      "Cam 1",
+      "Bosses"
+    ],
+    "requires": "{equipGold()} AND |Vacuum|"
+  },
+  {
+    "name": "East Hall Corner Camera",
+    "region": "Atari Land East Hall Corner",
+    "category": [
+      "Atari Land East Hall Corner",
+      "Bosses"
+    ],
+    "requires": "{equipGold()}"
+  },
+  {
+    "name": "Obtain Auto-Aegis",
+    "region": "Atari Land East Hall Corner",
+    "category": [
+      "Atari Land East Hall Corner",
+      "Items"
+    ],
+    "requires": "{equipGold()}"
+  },
+  {
+    "name": "Obtain Auto-Auda",
+    "region": "Atari Land East Hall Corner",
+    "category": [
+      "Atari Land East Hall Corner",
+      "Items"
+    ],
+    "requires": "{equipGold()}"
+  },
+  {
+    "name": "Office Camera",
+    "region": "Atari Land Office",
+    "category": [
+      "Atari Land Office",
+      "Bosses"
+    ],
+    "requires": "{equipGold()}"
+  },
+  {
+    "name": "Obtain Quick Charge",
+    "region": "Atari Land Office",
+    "category": [
+      "Atari Land Office",
+      "Items"
+    ],
+    "requires": "{equipGold()}"
+  },
+  {
+    "name": "Obtain Lucky Pizza",
+    "region": "Atari Land Office",
+    "category": [
+      "Atari Land Office",
+      "Items"
+    ],
+    "requires": "{equipGold()}"
+  },
+  {
+    "name": "Phantom Freddy",
+    "region": "Atari Land Office",
+    "category": [
+      "Atari Land Office",
+      "Bosses"
+    ],
+    "requires": "{equipGold()} AND |Vacuum|"
+  },
+  {
+    "name": "Obtain Secret Report #4",
+    "region": "Atari Land Office",
+    "category": [
+      "Atari Land Office",
+      "Key Items"
+    ],
+    "requires": "{equipGold()} AND |Vacuum|"
+  },
+  {
+    "name": "Learn Phantom Stinger",
+    "region": "Atari Land Office",
+    "category": [
+      "Atari Land Office",
+      "Bosses"
+    ],
+    "requires": "{equipGold()} AND |Vacuum|"
+  },
+  {
+    "name": "El Izquierdista (Lefty) and Helpy",
+    "region": "Cam 1",
+    "category": [
+      "Cam 1",
+      "Optional Bosses"
+    ],
+    "requires": "{canReachLocation(Phantom Freddy)}"
+  },
+  {
+    "name": "Learn Death Inhale",
+    "region": "Cam 1",
+    "category": [
+      "Cam 1",
+      "Optional Skills"
+    ],
+    "requires": "{canReachLocation(Phantom Freddy)}"
+  },
+  {
+    "name": "Ennard",
+    "region": "Vents",
+    "category": [
+      "Vents",
+      "Bosses"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Scraptrap",
+    "region": "Cam 1",
+    "category": [
+      "Cam 1",
+      "Optional Bosses"
+    ],
+    "requires": "{canReachLocation(Phantom Freddy)}"
+  },
+  {
+    "name": "Act 1 Springtrap",
+    "region": "Cam 1",
+    "category": [
+      "Goal"
+    ],
+    "requires": "{canReachLocation(Phantom Freddy)}",
+    "victory": true
+  },
+  {
+    "name": "Cam 8 BB - Item 1",
+    "region": "Cam 8",
+    "category": [
+      "Cam 8",
+      "BB's Shops"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cam 8 BB - Item 2",
+    "region": "Cam 8",
+    "category": [
+      "Cam 8",
+      "BB's Shops"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cam 8 BB - Item 3",
+    "region": "Cam 8",
+    "category": [
+      "Cam 8",
+      "BB's Shops"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cam 8 BB - Item 4",
+    "region": "Cam 8",
+    "category": [
+      "Cam 8",
+      "BB's Shops"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cam 8 BB - Item 5",
+    "region": "Cam 8",
+    "category": [
+      "Cam 8",
+      "BB's Shops"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cam 8 BB - Item 6",
+    "region": "Cam 8",
+    "category": [
+      "Cam 8",
+      "BB's Shops"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cam 8 BB - Item 7",
+    "region": "Cam 8",
+    "category": [
+      "Cam 8",
+      "BB's Shops"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cam 8 BB - Item 8",
+    "region": "Cam 8",
+    "category": [
+      "Cam 8",
+      "BB's Shops"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cam 8 BB - Item 9",
+    "region": "Cam 8",
+    "category": [
+      "Cam 8",
+      "BB's Shops"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cam 8 BB - Item 10",
+    "region": "Cam 8",
+    "category": [
+      "Cam 8",
+      "BB's Shops"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cam 6 BB - Item 1",
+    "region": "Cam 6",
+    "category": [
+      "Cam 6",
+      "BB's Shops"
+    ],
+    "requires": "{canReachLocation(Protection Hat Alpha)}"
+  },
+  {
+    "name": "Cam 6 BB - Item 2",
+    "region": "Cam 6",
+    "category": [
+      "Cam 6",
+      "BB's Shops"
+    ],
+    "requires": "{canReachLocation(Protection Hat Alpha)}"
+  },
+  {
+    "name": "Cam 6 BB - Item 3",
+    "region": "Cam 6",
+    "category": [
+      "Cam 6",
+      "BB's Shops"
+    ],
+    "requires": "{canReachLocation(Protection Hat Alpha)}"
+  },
+  {
+    "name": "Cam 6 BB - Item 4",
+    "region": "Cam 6",
+    "category": [
+      "Cam 6",
+      "BB's Shops"
+    ],
+    "requires": "{canReachLocation(Protection Hat Alpha)}"
+  },
+  {
+    "name": "Cam 6 BB - Item 5",
+    "region": "Cam 6",
+    "category": [
+      "Cam 6",
+      "BB's Shops"
+    ],
+    "requires": "{canReachLocation(Protection Hat Alpha)}"
+  },
+  {
+    "name": "Cam 6 BB - Item 6",
+    "region": "Cam 6",
+    "category": [
+      "Cam 6",
+      "BB's Shops"
+    ],
+    "requires": "{canReachLocation(Protection Hat Alpha)}"
+  },
+  {
+    "name": "Cam 6 BB - Item 7",
+    "region": "Cam 6",
+    "category": [
+      "Cam 6",
+      "BB's Shops"
+    ],
+    "requires": "{canReachLocation(Protection Hat Alpha)}"
+  },
+  {
+    "name": "Cam 6 BB - Item 8",
+    "region": "Cam 6",
+    "category": [
+      "Cam 6",
+      "BB's Shops"
+    ],
+    "requires": "{canReachLocation(Protection Hat Alpha)}"
+  },
+  {
+    "name": "Cam 6 BB - Item 9",
+    "region": "Cam 6",
+    "category": [
+      "Cam 6",
+      "BB's Shops"
+    ],
+    "requires": "{canReachLocation(Protection Hat Alpha)}"
+  },
+  {
+    "name": "Cam 6 BB - Item 10",
+    "region": "Cam 6",
+    "category": [
+      "Cam 6",
+      "BB's Shops"
+    ],
+    "requires": "{canReachLocation(Protection Hat Alpha)}"
+  },
+  {
+    "name": "Cam 2 BB - Item 1",
+    "region": "Cam 2",
+    "category": [
+      "Cam 2",
+      "BB's Shops"
+    ],
+    "requires": "{canReachLocation(Protection Hat Beta)}"
+  },
+  {
+    "name": "Cam 2 BB - Item 2",
+    "region": "Cam 2",
+    "category": [
+      "Cam 2",
+      "BB's Shops"
+    ],
+    "requires": "{canReachLocation(Protection Hat Beta)}"
+  },
+  {
+    "name": "Cam 2 BB - Item 3",
+    "region": "Cam 2",
+    "category": [
+      "Cam 2",
+      "BB's Shops"
+    ],
+    "requires": "{canReachLocation(Protection Hat Beta)}"
+  },
+  {
+    "name": "Cam 2 BB - Item 4",
+    "region": "Cam 2",
+    "category": [
+      "Cam 2",
+      "BB's Shops"
+    ],
+    "requires": "{canReachLocation(Protection Hat Beta)}"
+  },
+  {
+    "name": "Cam 2 BB - Item 5",
+    "region": "Cam 2",
+    "category": [
+      "Cam 2",
+      "BB's Shops"
+    ],
+    "requires": "{canReachLocation(Protection Hat Beta)}"
+  },
+  {
+    "name": "Cam 2 BB - Item 6",
+    "region": "Cam 2",
+    "category": [
+      "Cam 2",
+      "BB's Shops"
+    ],
+    "requires": "{canReachLocation(Protection Hat Beta)}"
+  },
+  {
+    "name": "Cam 2 BB - Item 7",
+    "region": "Cam 2",
+    "category": [
+      "Cam 2",
+      "BB's Shops"
+    ],
+    "requires": "{canReachLocation(Protection Hat Beta)}"
+  },
+  {
+    "name": "Cam 2 BB - Item 8",
+    "region": "Cam 2",
+    "category": [
+      "Cam 2",
+      "BB's Shops"
+    ],
+    "requires": "{canReachLocation(Protection Hat Beta)}"
+  },
+  {
+    "name": "Cam 2 BB - Item 9",
+    "region": "Cam 2",
+    "category": [
+      "Cam 2",
+      "BB's Shops"
+    ],
+    "requires": "{canReachLocation(Protection Hat Beta)}"
+  },
+  {
+    "name": "Cam 2 BB - Item 10",
+    "region": "Cam 2",
+    "category": [
+      "Cam 2",
+      "BB's Shops"
+    ],
+    "requires": "{canReachLocation(Protection Hat Beta)}"
+  },
+  {
+    "name": "Cam 1 BB - Item 1",
+    "region": "Cam 1",
+    "category": [
+      "Cam 1",
+      "BB's Shops"
+    ],
+    "requires": "{canReachLocation(Protection Hat Gamma)}"
+  },
+  {
+    "name": "Cam 1 BB - Item 2",
+    "region": "Cam 1",
+    "category": [
+      "Cam 1",
+      "BB's Shops"
+    ],
+    "requires": "{canReachLocation(Protection Hat Gamma)}"
+  },
+  {
+    "name": "Cam 1 BB - Item 3",
+    "region": "Cam 1",
+    "category": [
+      "Cam 1",
+      "BB's Shops"
+    ],
+    "requires": "{canReachLocation(Protection Hat Gamma)}"
+  },
+  {
+    "name": "Cam 1 BB - Item 4",
+    "region": "Cam 1",
+    "category": [
+      "Cam 1",
+      "BB's Shops"
+    ],
+    "requires": "{canReachLocation(Protection Hat Gamma)}"
+  },
+  {
+    "name": "Cam 1 BB - Item 5",
+    "region": "Cam 1",
+    "category": [
+      "Cam 1",
+      "BB's Shops"
+    ],
+    "requires": "{canReachLocation(Protection Hat Gamma)}"
+  },
+  {
+    "name": "Cam 1 BB - Item 6",
+    "region": "Cam 1",
+    "category": [
+      "Cam 1",
+      "BB's Shops"
+    ],
+    "requires": "{canReachLocation(Protection Hat Gamma)}"
+  },
+  {
+    "name": "Cam 1 BB - Item 7",
+    "region": "Cam 1",
+    "category": [
+      "Cam 1",
+      "BB's Shops"
+    ],
+    "requires": "{canReachLocation(Protection Hat Gamma)}"
+  },
+  {
+    "name": "Cam 1 BB - Item 8",
+    "region": "Cam 1",
+    "category": [
+      "Cam 1",
+      "BB's Shops"
+    ],
+    "requires": "{canReachLocation(Protection Hat Gamma)}"
+  },
+  {
+    "name": "Cam 1 BB - Item 9",
+    "region": "Cam 1",
+    "category": [
+      "Cam 1",
+      "BB's Shops"
+    ],
+    "requires": "{canReachLocation(Protection Hat Gamma)}"
+  },
+  {
+    "name": "Cam 1 BB - Item 10",
+    "region": "Cam 1",
+    "category": [
+      "Cam 1",
+      "BB's Shops"
+    ],
+    "requires": "{canReachLocation(Protection Hat Gamma)}"
+  },
+  {
+    "name": "Springtrap - Level 1",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Springtrap - Level 2",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Springtrap - Level 3",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Springtrap - Level 4",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Springtrap - Level 5",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Springtrap - Level 6",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipIron()}"
+  },
+  {
+    "name": "Springtrap - Level 7",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipIron()}"
+  },
+  {
+    "name": "Springtrap - Level 8",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipIron()}"
+  },
+  {
+    "name": "Springtrap - Level 9",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipIron()}"
+  },
+  {
+    "name": "Springtrap - Level 10",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipIron()}"
+  },
+  {
+    "name": "Springtrap - Level 11",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipBronze()} AND {canReachLocation(Protection Hat Alpha)}"
+  },
+  {
+    "name": "Springtrap - Level 12",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipBronze()} AND {canReachLocation(Protection Hat Alpha)}"
+  },
+  {
+    "name": "Springtrap - Level 13",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipBronze()} AND {canReachLocation(Protection Hat Alpha)}"
+  },
+  {
+    "name": "Springtrap - Level 14",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipBronze()} AND {canReachLocation(Protection Hat Alpha)}"
+  },
+  {
+    "name": "Springtrap - Level 15",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipBronze()} AND {canReachLocation(Protection Hat Alpha)}"
+  },
+  {
+    "name": "Springtrap - Level 16",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipBronze()} AND {canReachLocation(Protection Hat Alpha)}"
+  },
+  {
+    "name": "Springtrap - Level 17",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipBronze()} AND {canReachLocation(Protection Hat Alpha)}"
+  },
+  {
+    "name": "Springtrap - Level 18",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipBronze()} AND {canReachLocation(Protection Hat Alpha)}"
+  },
+  {
+    "name": "Springtrap - Level 19",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipBronze()} AND {canReachLocation(Protection Hat Alpha)}"
+  },
+  {
+    "name": "Springtrap - Level 20",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipBronze()} AND {canReachLocation(Protection Hat Alpha)}"
+  },
+  {
+    "name": "Springtrap - Level 21",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipSilver()} AND {canReachLocation(Protection Hat Beta)}"
+  },
+  {
+    "name": "Springtrap - Level 22",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipSilver()} AND {canReachLocation(Protection Hat Beta)}"
+  },
+  {
+    "name": "Springtrap - Level 23",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipSilver()} AND {canReachLocation(Protection Hat Beta)}"
+  },
+  {
+    "name": "Springtrap - Level 24",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipSilver()} AND {canReachLocation(Protection Hat Beta)}"
+  },
+  {
+    "name": "Springtrap - Level 25",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipSilver()} AND {canReachLocation(Protection Hat Beta)}"
+  },
+  {
+    "name": "Springtrap - Level 26",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipSilver()} AND {canReachLocation(Protection Hat Beta)}"
+  },
+  {
+    "name": "Springtrap - Level 27",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipSilver()} AND {canReachLocation(Protection Hat Beta)}"
+  },
+  {
+    "name": "Springtrap - Level 28",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipSilver()} AND {canReachLocation(Protection Hat Beta)}"
+  },
+  {
+    "name": "Springtrap - Level 29",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipSilver()} AND {canReachLocation(Protection Hat Beta)}"
+  },
+  {
+    "name": "Springtrap - Level 30",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipSilver()} AND {canReachLocation(Protection Hat Beta)}"
+  },
+  {
+    "name": "Springtrap - Level 31",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipGold()} AND {canReachLocation(Protection Hat Gamma)}"
+  },
+  {
+    "name": "Springtrap - Level 32",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipGold()} AND {canReachLocation(Protection Hat Gamma)}"
+  },
+  {
+    "name": "Springtrap - Level 33",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipGold()} AND {canReachLocation(Protection Hat Gamma)}"
+  },
+  {
+    "name": "Springtrap - Level 34",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipGold()} AND {canReachLocation(Protection Hat Gamma)}"
+  },
+  {
+    "name": "Springtrap - Level 35",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipGold()} AND {canReachLocation(Protection Hat Gamma)}"
+  },
+  {
+    "name": "Springtrap - Level 36",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipGold()} AND {canReachLocation(Protection Hat Gamma)}"
+  },
+  {
+    "name": "Springtrap - Level 37",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipGold()} AND {canReachLocation(Protection Hat Gamma)}"
+  },
+  {
+    "name": "Springtrap - Level 38",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipGold()} AND {canReachLocation(Protection Hat Gamma)}"
+  },
+  {
+    "name": "Springtrap - Level 39",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipGold()} AND {canReachLocation(Protection Hat Gamma)}"
+  },
+  {
+    "name": "Springtrap - Level 40",
+    "region": "Levelsanity",
+    "category": [
+      "Levelsanity"
+    ],
+    "requires": "{equipGold()} AND {canReachLocation(Protection Hat Gamma)}"
+  }
+]
