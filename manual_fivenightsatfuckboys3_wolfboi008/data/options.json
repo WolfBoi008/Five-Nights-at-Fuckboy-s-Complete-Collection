@@ -58,17 +58,28 @@
             "group": "Example Options"
         },
 
-        "_DLC_enabled":{
-            "display_name": "DLC Enabled",
-            "description": "Is the Dlc enabled?",
-            "type": "Toggle",
-            "visibility": [
-                "simple_ui",
-                "complex_ui",
-                "template"
-            ],
-            "default": true
+        "optional_bosses": {
+        "display_name": "Optional Bosses",
+        "description": [
+            "Enable or disable optional boss fights as Checks.",
+            "If this is disabled, it also disables obtaining some of Springtrap's Skills as Checks,",
+            "since they can only be obtained by defeating the optional Bosses.",
+            "(10 Checks)"
+        ],
+        "type": "Toggle",
+        "default": false
+        },
+
+        "levelsanity": {
+        "display_name": "Levelsanity",
+        "description": [
+            "Enable or disable leveling up for Checks.",
+            "(40 Checks)"
+        ],
+        "type": "Toggle",
+        "default": true
         }
+
     }
 
 }

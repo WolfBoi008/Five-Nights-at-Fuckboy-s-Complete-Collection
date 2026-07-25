@@ -32,26 +32,8 @@ class TotalCharactersToWinWith(Range):
     range_end = 50
     default = 50
 
-class OptionalBosses(DefaultOnToggle):
-    """
-    Add or remove optional bosses as checks.
-    WARNING: This Option MUST be enabled if you have Refurbs as your Goal. It's honestly good to have on for
-    that Goal anyway, since it can be a way for you to track which ones you haven't beaten yet.
-    (15 Checks)
-    """
-    display_name = "Optional Bosses"
-
-class Levelsanity(Toggle):
-    """
-    Add or remove level-ups as checks.
-    (120 Checks)
-    """
-    display_name = "Levelsanity"
-
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, Type[Option[Any]]]:
-    options["optional_bosses"] = OptionalBosses
-    options["levelsanity"] = Levelsanity
     return options
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options

@@ -1,0 +1,22 @@
+{
+	"$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.events.schema.json",
+    "data": [
+        {
+            "name": "Iron Equipment",
+            "requires": "|Progressive Whip:1| AND |Progressive Coils:1|"
+        },
+        {
+            "name": "Bronze Equipment",
+            "requires": "|Progressive Whip:2| AND |Progressive Coils:2| AND |Toy Freddy Head|"
+        },
+        {
+            "name": "Silver Equipment",
+            "requires": "|Progressive Whip:3| AND |Progressive Coils:3| AND |Toy Freddy Head| AND |Esoteric Sex Toy|"
+        },
+        {
+            "name": "Gold Equipment",
+            "requires": "|Progressive Whip:4| AND |Progressive Coils:4| AND |Toy Freddy Head| AND |Esoteric Sex Toy| AND |Poster| AND |Blanket| AND |Tape| AND |Freddy & Friends Blanket|"
+        }
+    ]
+}
+

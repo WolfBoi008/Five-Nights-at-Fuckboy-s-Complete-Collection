@@ -32,26 +32,8 @@ class TotalCharactersToWinWith(Range):
     range_end = 50
     default = 50
 
-class OptionalBosses(DefaultOnToggle):
-    """
-    Enable or disable optional boss fights as Checks.
-    If this is disabled, it also disables obtaining some of Springtrap's Skills as
-    Checks, since they can only be obtained by defeating the optional bosses.
-    (10 Checks)
-    """
-    display_name = "Optional Bosses"
-
-class Levelsanity(Toggle):
-    """
-    Enable or disable leveling up for Checks.
-    (40 Checks)
-    """
-    display_name = "Levelsanity"
-
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, Type[Option[Any]]]:
-    options["optional_bosses"] = OptionalBosses
-    options["levelsanity"] = Levelsanity
     return options
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options

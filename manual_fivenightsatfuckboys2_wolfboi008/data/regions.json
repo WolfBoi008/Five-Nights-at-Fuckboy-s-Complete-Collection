@@ -1,14 +1,25 @@
 {
   "Show Stage": {
-    "connects_to": [],
-    "requires": []
+    "connects_to": [
+      "Kids Cove",
+      "Main Hall",
+      "Levelsanity",
+      "???"
+    ],
+    "requires": [],
+    "starting": true
   },
   "Kids Cove": {
     "connects_to": [],
     "requires": []
   },
   "Main Hall": {
-    "connects_to": [],
+    "connects_to": [
+      "Parts and Service",
+      "Men's Bathroom",
+      "Women's Bathroom",
+      "Office Hall"
+    ],
     "requires": []
   },
   "Parts and Service": {
@@ -20,7 +31,9 @@
     "requires": []
   },
   "Women's Bathroom": {
-    "connects_to": [],
+    "connects_to": [
+      "Sewers"
+    ],
     "requires": []
   },
   "Sewers": {
@@ -28,15 +41,25 @@
     "requires": []
   },
   "Office Hall": {
-    "connects_to": [],
+    "connects_to": [
+      "Party Room 1",
+      "Party Room 2",
+      "Party Room 3",
+      "Party Room 4",
+      "Office"
+    ],
     "requires": []
   },
   "Party Room 1": {
-    "connects_to": [],
+    "connects_to": [
+      "Left Vent"
+    ],
     "requires": []
   },
   "Party Room 2": {
-    "connects_to": [],
+    "connects_to": [
+      "Right Vent"
+    ],
     "requires": []
   },
   "Party Room 3": {
@@ -56,12 +79,14 @@
     "requires": []
   },
   "Office": {
-    "connects_to": [],
+    "connects_to": [
+      "Cave of the Past"
+    ],
     "requires": []
   },
   "Cave of the Past": {
     "connects_to": [],
-    "requires": "{partyAllToys()} AND {equipOmega()} AND |Dragon Dildo|"
+    "requires": "|All Toys| AND |Omega Equipment| AND |Dragon Dildo|"
   },
   "Levelsanity": {
     "connects_to": [],

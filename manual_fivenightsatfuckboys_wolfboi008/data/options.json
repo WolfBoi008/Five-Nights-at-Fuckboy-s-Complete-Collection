@@ -7,7 +7,7 @@
                 "Using 'goal' as the name of an option let you override some of the generated goal parameters"
             ],
             "display_name": "The End Objective",
-            "description": "How to End your Randomized playthrough.",
+            "description": "Choose the boss you have to beat to finish your slot.\nYou can choose Golden Freddy, BB, or the ??? in the Interior Walls dungeon.\nYou cannot choose ??? if you disable the Interior Walls.",
             "hidden": false
         },
         "death_link": {
@@ -15,6 +15,37 @@
         },
         "filler_traps": {
             "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage"
+        }
+    },
+    "user": {
+        "interior_walls": {
+            "display_name": "Interior Walls",
+            "description": [
+                "Add Checks for the Interior Walls dungeon.",
+                "(37 Checks)"
+            ],
+            "type": "Toggle",
+            "default": false
+        },
+
+        "optional_bosses": {
+            "display_name": "Optional Bosses",
+            "description": [
+                "Add Checks for defeatting the late-game optional Bosses.",
+                "(5 Checks)"
+            ],
+            "type": "Toggle",
+            "default": false
+        },
+        
+        "levelsanity": {
+            "display_name": "Levelsanity",
+            "description": [
+                "Add Checks for leveling up the party.",
+                "(80 Checks)"
+            ],
+            "type": "Toggle",
+            "default": true
         }
     }
 }

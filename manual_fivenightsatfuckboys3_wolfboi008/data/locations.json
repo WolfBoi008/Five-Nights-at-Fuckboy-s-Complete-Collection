@@ -80,7 +80,7 @@
       "Cam 7",
       "Bosses"
     ],
-    "requires": "{equipIron()}"
+    "requires": "|Iron Equipment|"
   },
   {
     "name": "Obtain Toy Freddy Head",
@@ -206,7 +206,7 @@
       "Cam 7",
       "Events"
     ],
-    "requires": "{equipBronze()}"
+    "requires": "|Bronze Equipment|"
   },
   {
     "name": "Phantom Endo Head",
@@ -215,7 +215,7 @@
       "Cam 7",
       "Bosses"
     ],
-    "requires": "{equipBronze()}"
+    "requires": "|Bronze Equipment|"
   },
   {
     "name": "Esoteric Sex Toy",
@@ -224,7 +224,7 @@
       "Cam 7",
       "Key Items"
     ],
-    "requires": "{equipBronze()}"
+    "requires": "|Bronze Equipment|"
   },
   {
     "name": "Give Esoteric Sex Toy to Mangle",
@@ -233,7 +233,7 @@
       "Cam 6",
       "Events"
     ],
-    "requires": "{equipBronze()} AND |Esoteric Sex Toy|"
+    "requires": "|Bronze Equipment| AND |Esoteric Sex Toy|"
   },
   {
     "name": "Backroom Camera",
@@ -242,7 +242,7 @@
       "Atari Land Backroom",
       "Bosses"
     ],
-    "requires": "{equipBronze()}"
+    "requires": "|Bronze Equipment|"
   },
   {
     "name": "Obtain Auto-Anima",
@@ -251,7 +251,7 @@
       "Atari Land Backroom",
       "Items"
     ],
-    "requires": "{equipBronze()}"
+    "requires": "|Bronze Equipment|"
   },
   {
     "name": "Phantom Mangle",
@@ -260,7 +260,7 @@
       "Atari Land Backroom",
       "Bosses"
     ],
-    "requires": "{equipBronze()} AND |Esoteric Sex Toy|"
+    "requires": "|Bronze Equipment| AND |Esoteric Sex Toy|"
   },
   {
     "name": "Obtain Secret Report #2",
@@ -269,7 +269,7 @@
       "Atari Land Backroom",
       "Key Items"
     ],
-    "requires": "{equipBronze()} AND |Esoteric Sex Toy|"
+    "requires": "|Bronze Equipment| AND |Esoteric Sex Toy|"
   },
   {
     "name": "Learn Phantom Volt",
@@ -278,7 +278,7 @@
       "Atari Land Backroom",
       "Skills"
     ],
-    "requires": "{equipBronze()} AND |Esoteric Sex Toy|"
+    "requires": "|Bronze Equipment| AND |Esoteric Sex Toy|"
   },
   {
     "name": "Rockstar Freddy",
@@ -314,7 +314,7 @@
       "Cam 3",
       "Bosses"
     ],
-    "requires": "{equipSilver()}"
+    "requires": "|Silver Equipment|"
   },
   {
     "name": "Obtain Tape",
@@ -323,7 +323,7 @@
       "Cam 3",
       "Key Items"
     ],
-    "requires": "{equipSilver()}"
+    "requires": "|Silver Equipment|"
   },
   {
     "name": "Obtain Freddy & Friends Blanket",
@@ -350,7 +350,7 @@
       "Atari Land Pirate Cove",
       "Bosses"
     ],
-    "requires": "{equipSilver()}"
+    "requires": "|Silver Equipment|"
   },
   {
     "name": "Obtain Counter Shield",
@@ -359,7 +359,7 @@
       "Atari Land Pirate Cove",
       "Items"
     ],
-    "requires": "{equipSilver()}"
+    "requires": "|Silver Equipment|"
   },
   {
     "name": "Obtain Reserve Power",
@@ -368,7 +368,7 @@
       "Atari Land Pirate Cove",
       "Items"
     ],
-    "requires": "{equipSilver()}"
+    "requires": "|Silver Equipment|"
   },
   {
     "name": "Phantom Foxy",
@@ -377,7 +377,7 @@
       "Atari Land Pirate Cove",
       "Bosses"
     ],
-    "requires": "{equipSilver()} AND {canReachLocation(Give Freddy & Friends Blanket to Foxy)}"
+    "requires": "|Silver Equipment| AND {canReachLocation(Give Freddy & Friends Blanket to Foxy)}"
   },
   {
     "name": "Obtain Secret Report #3",
@@ -407,7 +407,7 @@
     "requires": "{canReachLocation(Phantom Foxy)}"
   },
   {
-    "name": "Circus Rift",
+    "name": "Learn Circus Rift",
     "region": "Cam 2",
     "category": [
       "Cam 2",
@@ -441,7 +441,7 @@
       "Cam 8",
       "Optional Bosses"
     ],
-    "requires": "{equipGold()}"
+    "requires": "|Gold Equipment|"
   },
   {
     "name": "Protection Hat Gamma",
@@ -459,7 +459,7 @@
       "Cam 1",
       "Bosses"
     ],
-    "requires": "{equipGold()} AND |Vacuum|"
+    "requires": "|Gold Equipment| AND |Vacuum|"
   },
   {
     "name": "East Hall Corner Camera",
@@ -468,7 +468,7 @@
       "Atari Land East Hall Corner",
       "Bosses"
     ],
-    "requires": "{equipGold()}"
+    "requires": "|Gold Equipment|"
   },
   {
     "name": "Obtain Auto-Aegis",
@@ -477,7 +477,7 @@
       "Atari Land East Hall Corner",
       "Items"
     ],
-    "requires": "{equipGold()}"
+    "requires": "|Gold Equipment|"
   },
   {
     "name": "Obtain Auto-Auda",
@@ -486,7 +486,7 @@
       "Atari Land East Hall Corner",
       "Items"
     ],
-    "requires": "{equipGold()}"
+    "requires": "|Gold Equipment|"
   },
   {
     "name": "Office Camera",
@@ -495,7 +495,7 @@
       "Atari Land Office",
       "Bosses"
     ],
-    "requires": "{equipGold()}"
+    "requires": "|Gold Equipment|"
   },
   {
     "name": "Obtain Quick Charge",
@@ -504,7 +504,7 @@
       "Atari Land Office",
       "Items"
     ],
-    "requires": "{equipGold()}"
+    "requires": "|Gold Equipment|"
   },
   {
     "name": "Obtain Lucky Pizza",
@@ -513,7 +513,7 @@
       "Atari Land Office",
       "Items"
     ],
-    "requires": "{equipGold()}"
+    "requires": "|Gold Equipment|"
   },
   {
     "name": "Phantom Freddy",
@@ -522,7 +522,7 @@
       "Atari Land Office",
       "Bosses"
     ],
-    "requires": "{equipGold()} AND |Vacuum|"
+    "requires": "|Gold Equipment| AND |Vacuum|"
   },
   {
     "name": "Obtain Secret Report #4",
@@ -531,7 +531,7 @@
       "Atari Land Office",
       "Key Items"
     ],
-    "requires": "{equipGold()} AND |Vacuum|"
+    "requires": "|Gold Equipment| AND |Vacuum|"
   },
   {
     "name": "Learn Phantom Stinger",
@@ -540,7 +540,7 @@
       "Atari Land Office",
       "Bosses"
     ],
-    "requires": "{equipGold()} AND |Vacuum|"
+    "requires": "|Gold Equipment| AND |Vacuum|"
   },
   {
     "name": "El Izquierdista (Lefty) and Helpy",
@@ -993,7 +993,7 @@
     "category": [
       "Levelsanity"
     ],
-    "requires": "{equipIron()}"
+    "requires": "|Iron Equipment|"
   },
   {
     "name": "Springtrap - Level 7",
@@ -1001,7 +1001,7 @@
     "category": [
       "Levelsanity"
     ],
-    "requires": "{equipIron()}"
+    "requires": "|Iron Equipment|"
   },
   {
     "name": "Springtrap - Level 8",
@@ -1009,7 +1009,7 @@
     "category": [
       "Levelsanity"
     ],
-    "requires": "{equipIron()}"
+    "requires": "|Iron Equipment|"
   },
   {
     "name": "Springtrap - Level 9",
@@ -1017,7 +1017,7 @@
     "category": [
       "Levelsanity"
     ],
-    "requires": "{equipIron()}"
+    "requires": "|Iron Equipment|"
   },
   {
     "name": "Springtrap - Level 10",
@@ -1025,7 +1025,7 @@
     "category": [
       "Levelsanity"
     ],
-    "requires": "{equipIron()}"
+    "requires": "|Iron Equipment|"
   },
   {
     "name": "Springtrap - Level 11",
@@ -1033,7 +1033,7 @@
     "category": [
       "Levelsanity"
     ],
-    "requires": "{equipBronze()} AND {canReachLocation(Protection Hat Alpha)}"
+    "requires": "|Bronze Equipment| AND {canReachLocation(Protection Hat Alpha)}"
   },
   {
     "name": "Springtrap - Level 12",
@@ -1041,7 +1041,7 @@
     "category": [
       "Levelsanity"
     ],
-    "requires": "{equipBronze()} AND {canReachLocation(Protection Hat Alpha)}"
+    "requires": "|Bronze Equipment| AND {canReachLocation(Protection Hat Alpha)}"
   },
   {
     "name": "Springtrap - Level 13",
@@ -1049,7 +1049,7 @@
     "category": [
       "Levelsanity"
     ],
-    "requires": "{equipBronze()} AND {canReachLocation(Protection Hat Alpha)}"
+    "requires": "|Bronze Equipment| AND {canReachLocation(Protection Hat Alpha)}"
   },
   {
     "name": "Springtrap - Level 14",
@@ -1057,7 +1057,7 @@
     "category": [
       "Levelsanity"
     ],
-    "requires": "{equipBronze()} AND {canReachLocation(Protection Hat Alpha)}"
+    "requires": "|Bronze Equipment| AND {canReachLocation(Protection Hat Alpha)}"
   },
   {
     "name": "Springtrap - Level 15",
@@ -1065,7 +1065,7 @@
     "category": [
       "Levelsanity"
     ],
-    "requires": "{equipBronze()} AND {canReachLocation(Protection Hat Alpha)}"
+    "requires": "|Bronze Equipment| AND {canReachLocation(Protection Hat Alpha)}"
   },
   {
     "name": "Springtrap - Level 16",
@@ -1073,7 +1073,7 @@
     "category": [
       "Levelsanity"
     ],
-    "requires": "{equipBronze()} AND {canReachLocation(Protection Hat Alpha)}"
+    "requires": "|Bronze Equipment| AND {canReachLocation(Protection Hat Alpha)}"
   },
   {
     "name": "Springtrap - Level 17",
@@ -1081,7 +1081,7 @@
     "category": [
       "Levelsanity"
     ],
-    "requires": "{equipBronze()} AND {canReachLocation(Protection Hat Alpha)}"
+    "requires": "|Bronze Equipment| AND {canReachLocation(Protection Hat Alpha)}"
   },
   {
     "name": "Springtrap - Level 18",
@@ -1089,7 +1089,7 @@
     "category": [
       "Levelsanity"
     ],
-    "requires": "{equipBronze()} AND {canReachLocation(Protection Hat Alpha)}"
+    "requires": "|Bronze Equipment| AND {canReachLocation(Protection Hat Alpha)}"
   },
   {
     "name": "Springtrap - Level 19",
@@ -1097,7 +1097,7 @@
     "category": [
       "Levelsanity"
     ],
-    "requires": "{equipBronze()} AND {canReachLocation(Protection Hat Alpha)}"
+    "requires": "|Bronze Equipment| AND {canReachLocation(Protection Hat Alpha)}"
   },
   {
     "name": "Springtrap - Level 20",
@@ -1105,7 +1105,7 @@
     "category": [
       "Levelsanity"
     ],
-    "requires": "{equipBronze()} AND {canReachLocation(Protection Hat Alpha)}"
+    "requires": "|Bronze Equipment| AND {canReachLocation(Protection Hat Alpha)}"
   },
   {
     "name": "Springtrap - Level 21",
@@ -1113,7 +1113,7 @@
     "category": [
       "Levelsanity"
     ],
-    "requires": "{equipSilver()} AND {canReachLocation(Protection Hat Beta)}"
+    "requires": "|Silver Equipment| AND {canReachLocation(Protection Hat Beta)}"
   },
   {
     "name": "Springtrap - Level 22",
@@ -1121,7 +1121,7 @@
     "category": [
       "Levelsanity"
     ],
-    "requires": "{equipSilver()} AND {canReachLocation(Protection Hat Beta)}"
+    "requires": "|Silver Equipment| AND {canReachLocation(Protection Hat Beta)}"
   },
   {
     "name": "Springtrap - Level 23",
@@ -1129,7 +1129,7 @@
     "category": [
       "Levelsanity"
     ],
-    "requires": "{equipSilver()} AND {canReachLocation(Protection Hat Beta)}"
+    "requires": "|Silver Equipment| AND {canReachLocation(Protection Hat Beta)}"
   },
   {
     "name": "Springtrap - Level 24",
@@ -1137,7 +1137,7 @@
     "category": [
       "Levelsanity"
     ],
-    "requires": "{equipSilver()} AND {canReachLocation(Protection Hat Beta)}"
+    "requires": "|Silver Equipment| AND {canReachLocation(Protection Hat Beta)}"
   },
   {
     "name": "Springtrap - Level 25",
@@ -1145,7 +1145,7 @@
     "category": [
       "Levelsanity"
     ],
-    "requires": "{equipSilver()} AND {canReachLocation(Protection Hat Beta)}"
+    "requires": "|Silver Equipment| AND {canReachLocation(Protection Hat Beta)}"
   },
   {
     "name": "Springtrap - Level 26",
@@ -1153,7 +1153,7 @@
     "category": [
       "Levelsanity"
     ],
-    "requires": "{equipSilver()} AND {canReachLocation(Protection Hat Beta)}"
+    "requires": "|Silver Equipment| AND {canReachLocation(Protection Hat Beta)}"
   },
   {
     "name": "Springtrap - Level 27",
@@ -1161,7 +1161,7 @@
     "category": [
       "Levelsanity"
     ],
-    "requires": "{equipSilver()} AND {canReachLocation(Protection Hat Beta)}"
+    "requires": "|Silver Equipment| AND {canReachLocation(Protection Hat Beta)}"
   },
   {
     "name": "Springtrap - Level 28",
@@ -1169,7 +1169,7 @@
     "category": [
       "Levelsanity"
     ],
-    "requires": "{equipSilver()} AND {canReachLocation(Protection Hat Beta)}"
+    "requires": "|Silver Equipment| AND {canReachLocation(Protection Hat Beta)}"
   },
   {
     "name": "Springtrap - Level 29",
@@ -1177,7 +1177,7 @@
     "category": [
       "Levelsanity"
     ],
-    "requires": "{equipSilver()} AND {canReachLocation(Protection Hat Beta)}"
+    "requires": "|Silver Equipment| AND {canReachLocation(Protection Hat Beta)}"
   },
   {
     "name": "Springtrap - Level 30",
@@ -1185,7 +1185,7 @@
     "category": [
       "Levelsanity"
     ],
-    "requires": "{equipSilver()} AND {canReachLocation(Protection Hat Beta)}"
+    "requires": "|Silver Equipment| AND {canReachLocation(Protection Hat Beta)}"
   },
   {
     "name": "Springtrap - Level 31",
@@ -1193,7 +1193,7 @@
     "category": [
       "Levelsanity"
     ],
-    "requires": "{equipGold()} AND {canReachLocation(Protection Hat Gamma)}"
+    "requires": "|Gold Equipment| AND {canReachLocation(Protection Hat Gamma)}"
   },
   {
     "name": "Springtrap - Level 32",
@@ -1201,7 +1201,7 @@
     "category": [
       "Levelsanity"
     ],
-    "requires": "{equipGold()} AND {canReachLocation(Protection Hat Gamma)}"
+    "requires": "|Gold Equipment| AND {canReachLocation(Protection Hat Gamma)}"
   },
   {
     "name": "Springtrap - Level 33",
@@ -1209,7 +1209,7 @@
     "category": [
       "Levelsanity"
     ],
-    "requires": "{equipGold()} AND {canReachLocation(Protection Hat Gamma)}"
+    "requires": "|Gold Equipment| AND {canReachLocation(Protection Hat Gamma)}"
   },
   {
     "name": "Springtrap - Level 34",
@@ -1217,7 +1217,7 @@
     "category": [
       "Levelsanity"
     ],
-    "requires": "{equipGold()} AND {canReachLocation(Protection Hat Gamma)}"
+    "requires": "|Gold Equipment| AND {canReachLocation(Protection Hat Gamma)}"
   },
   {
     "name": "Springtrap - Level 35",
@@ -1225,7 +1225,7 @@
     "category": [
       "Levelsanity"
     ],
-    "requires": "{equipGold()} AND {canReachLocation(Protection Hat Gamma)}"
+    "requires": "|Gold Equipment| AND {canReachLocation(Protection Hat Gamma)}"
   },
   {
     "name": "Springtrap - Level 36",
@@ -1233,7 +1233,7 @@
     "category": [
       "Levelsanity"
     ],
-    "requires": "{equipGold()} AND {canReachLocation(Protection Hat Gamma)}"
+    "requires": "|Gold Equipment| AND {canReachLocation(Protection Hat Gamma)}"
   },
   {
     "name": "Springtrap - Level 37",
@@ -1241,7 +1241,7 @@
     "category": [
       "Levelsanity"
     ],
-    "requires": "{equipGold()} AND {canReachLocation(Protection Hat Gamma)}"
+    "requires": "|Gold Equipment| AND {canReachLocation(Protection Hat Gamma)}"
   },
   {
     "name": "Springtrap - Level 38",
@@ -1249,7 +1249,7 @@
     "category": [
       "Levelsanity"
     ],
-    "requires": "{equipGold()} AND {canReachLocation(Protection Hat Gamma)}"
+    "requires": "|Gold Equipment| AND {canReachLocation(Protection Hat Gamma)}"
   },
   {
     "name": "Springtrap - Level 39",
@@ -1257,7 +1257,7 @@
     "category": [
       "Levelsanity"
     ],
-    "requires": "{equipGold()} AND {canReachLocation(Protection Hat Gamma)}"
+    "requires": "|Gold Equipment| AND {canReachLocation(Protection Hat Gamma)}"
   },
   {
     "name": "Springtrap - Level 40",
@@ -1265,6 +1265,6 @@
     "category": [
       "Levelsanity"
     ],
-    "requires": "{equipGold()} AND {canReachLocation(Protection Hat Gamma)}"
+    "requires": "|Gold Equipment| AND {canReachLocation(Protection Hat Gamma)}"
   }
 ]

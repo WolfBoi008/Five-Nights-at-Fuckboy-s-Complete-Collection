@@ -6,9 +6,9 @@
   {
     "name": "Birthday Present", "category": ["Show Stage"], "region": "Show Stage"},
   {
-    "name": "Show Stage Camera", "category": ["Show Stage", "Bosses"], "region": "Show Stage", "requires": "{equipAlpha()}"},
+    "name": "Show Stage Camera", "category": ["Show Stage", "Bosses"], "region": "Show Stage", "requires": "|Alpha Equipment|"},
   {
-    "name": "Toy Freddy", "category": ["Show Stage", "Optional Bosses"], "region": "Show Stage", "requires": "{equipOmega()}"},
+    "name": "Toy Freddy", "category": ["Show Stage", "Optional Bosses"], "region": "Show Stage", "requires": "|Omega Equipment|"},
   {
     "name": "Chica", "category": ["Kitchen", "Party Members"], "region": "Kitchen"},
   {
@@ -20,7 +20,7 @@
   {
     "name": "Obtain Lighter", "category": ["Dining Area"], "region": "Dining Area"},
   {
-    "name": "Dining Area Camera", "category": ["Dining Area", "Bosses"], "region": "Dining Area", "requires": "{equipAlpha()}"},
+    "name": "Dining Area Camera", "category": ["Dining Area", "Bosses"], "region": "Dining Area", "requires": "|Alpha Equipment|"},
   {
     "name": "Return Bonnie's Head", "category": ["Backroom"], "region": "Backroom", "requires": "|Bonnie's Head Voucher| AND |Bonnie's Head|"},
   {
@@ -32,9 +32,9 @@
   {
     "name": "Protection Hat Alpha", "category": ["Backroom", "Bosses"], "region": "Backroom"},
   {
-    "name": "Backroom Camera", "category": ["Backroom", "Bosses"], "region": "Backroom", "requires": "{equipAlpha()}"},
+    "name": "Backroom Camera", "category": ["Backroom", "Bosses"], "region": "Backroom", "requires": "|Alpha Equipment|"},
   {
-    "name": "Toy Bonnie", "category": ["Backroom", "Optional Bosses"], "region": "Backroom", "requires": "{equipOmega()}"},
+    "name": "Toy Bonnie", "category": ["Backroom", "Optional Bosses"], "region": "Backroom", "requires": "|Omega Equipment|"},
   {
     "name": "Obtain Kitchen Key", "category": ["Restrooms"], "region": "Restrooms"},
   {
@@ -43,15 +43,15 @@
     "name": "Men's Bathroom Box", "category": ["Restrooms"], "region": "Restrooms"
   },
   {
-    "name": "Protection Hat Beta", "category": ["Restrooms", "Bosses"], "region": "Restrooms", "requires": "{equipAlpha()}"},
+    "name": "Protection Hat Beta", "category": ["Restrooms", "Bosses"], "region": "Restrooms", "requires": "|Alpha Equipment|"},
   {
-    "name": "Restrooms Camera", "category": ["Restrooms", "Bosses"], "region": "Restrooms", "requires": "{equipBeta()}"},
+    "name": "Restrooms Camera", "category": ["Restrooms", "Bosses"], "region": "Restrooms", "requires": "|Beta Equipment|"},
   {
-    "name": "The Puppet", "category": ["Restrooms", "Bosses"], "region": "Restrooms", "requires": "{equipGamma()}"},
+    "name": "The Puppet", "category": ["Restrooms", "Bosses"], "region": "Restrooms", "requires": "|Gamma Equipment|"},
   {
-    "name": "The Second Puppet", "category": ["Restrooms", "Optional Bosses"], "region": "Restrooms", "requires": "{equipKingly()}"},
+    "name": "The Second Puppet", "category": ["Restrooms", "Optional Bosses"], "region": "Restrooms", "requires": "|Kingly Equipment|"},
   {
-    "name": "Toy Chica", "category": ["Restrooms", "Optional Bosses"], "region": "Restrooms", "requires": "{equipOmega()}"},
+    "name": "Toy Chica", "category": ["Restrooms", "Optional Bosses"], "region": "Restrooms", "requires": "|Omega Equipment|"},
   {
     "name": "Bottom-Left Crate", "category": ["Pirate Cove"], "region": "Pirate Cove"},
   {
@@ -63,31 +63,31 @@
   {
     "name": "Foxy", "category": ["Pirate Cove", "Party Members"], "region": "Pirate Cove", "requires": "|Lighter|"},
   {
-    "name": "Pirate Cove Camera", "category": ["Pirate Cove", "Bosses"], "region": "Pirate Cove", "requires": "{equipGamma()}"},
+    "name": "Pirate Cove Camera", "category": ["Pirate Cove", "Bosses"], "region": "Pirate Cove", "requires": "|Gamma Equipment|"},
   {
-    "name": "Mangle", "category": ["Pirate Cove", "Optional Bosses"], "region": "Pirate Cove", "requires": "|Lighter| AND {equipOmega()}"},
+    "name": "Mangle", "category": ["Pirate Cove", "Optional Bosses"], "region": "Pirate Cove", "requires": "|Lighter| AND |Omega Equipment|"},
   {
-    "name": "West Hall Camera", "category": ["West Hall", "Bosses"], "region": "West Hall", "requires": "{equipBeta()}"},
+    "name": "West Hall Camera", "category": ["West Hall", "Bosses"], "region": "West Hall", "requires": "|Beta Equipment|"},
   {
-    "name": "East Hall Camera", "category": ["East Hall", "Bosses"], "region": "East Hall", "requires": "{equipBeta()}"},
+    "name": "East Hall Camera", "category": ["East Hall", "Bosses"], "region": "East Hall", "requires": "|Beta Equipment|"},
   {
-    "name": "Protection Hat Gamma", "category": ["Supply Closet", "Bosses"], "region": "Supply Closet", "requires": "{equipBeta()}"},
+    "name": "Protection Hat Gamma", "category": ["Supply Closet", "Bosses"], "region": "Supply Closet", "requires": "|Beta Equipment|"},
   {
-    "name": "Supply Closet Camera", "category": ["Supply Closet", "Bosses"], "region": "Supply Closet", "requires": "{partyComplete()} OR {equipBeta()}"},
+    "name": "Supply Closet Camera", "category": ["Supply Closet", "Bosses"], "region": "Supply Closet", "requires": "|Full Party| OR |Beta Equipment|"},
   {
-    "name": "West Hall Corner Camera", "category": ["West Hall Corner", "Bosses"], "region": "West Hall Corner", "requires": "{equipOmega()}"},
+    "name": "West Hall Corner Camera", "category": ["West Hall Corner", "Bosses"], "region": "West Hall Corner", "requires": "|Omega Equipment|"},
   {
-    "name": "Protection Hat Omega", "category": ["East Hall Corner", "Bosses"], "region": "East Hall Corner", "requires": "{equipGamma()}"},
+    "name": "Protection Hat Omega", "category": ["East Hall Corner", "Bosses"], "region": "East Hall Corner", "requires": "|Gamma Equipment|"},
   {
-    "name": "East Hall Corner Camera", "category": ["East Hall Corner", "Bosses"], "region": "East Hall Corner", "requires": "{equipOmega()}"},
+    "name": "East Hall Corner Camera", "category": ["East Hall Corner", "Bosses"], "region": "East Hall Corner", "requires": "|Omega Equipment|"},
   {
     "name": "Golden Freddy", "category": ["Office", "Final Bosses"], "region": "Office"},
   {
-    "name": "Defeat Golden Freddy", "category": ["Office", "Final Bosses"], "region": "Office", "victory": true},
+    "name": "Defeat Golden Freddy", "category": ["Goal"], "region": "Office", "victory": true},
   {
     "name": "BB", "category": ["Office", "Final Bosses"], "region": "Office"},
   {
-    "name": "Defeat BB", "category": ["Office", "Final Bosses"], "region": "Office", "victory": true},
+    "name": "Defeat BB", "category": ["Goal"], "region": "Office", "victory": true},
   {
     "name": "Godly Microphone", "category": ["Interior Walls"], "region": "Interior Walls 1st Floor"},
   {
@@ -163,7 +163,7 @@
   {
     "name": "???", "category": ["Interior Walls"], "region": "Interior Walls 3rd Floor"},
   {
-    "name": "Defeat ???", "category": ["Final Bosses"], "region": "Interior Walls 3rd Floor", "victory": true},
+    "name": "Defeat ???", "category": ["Goal"], "region": "Interior Walls 3rd Floor", "victory": true},
   {
     "name": "Freddy - Level 1", "category": ["Levelsanity"], "region": "Levelsanity"},
   {
@@ -175,35 +175,35 @@
   {
     "name": "Freddy - Level 5", "category": ["Levelsanity"], "region": "Levelsanity"},
   {
-    "name": "Freddy - Level 6", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "{equipAlpha()}"},
+    "name": "Freddy - Level 6", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Alpha Equipment|"},
   {
-    "name": "Freddy - Level 7", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "{equipAlpha()}"},
+    "name": "Freddy - Level 7", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Alpha Equipment|"},
   {
-    "name": "Freddy - Level 8", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "{equipAlpha()}"},
+    "name": "Freddy - Level 8", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Alpha Equipment|"},
   {
-    "name": "Freddy - Level 9", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "{equipAlpha()}"},
+    "name": "Freddy - Level 9", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Alpha Equipment|"},
   {
-    "name": "Freddy - Level 10", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "{equipAlpha()}"},
+    "name": "Freddy - Level 10", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Alpha Equipment|"},
   {
-    "name": "Freddy - Level 11", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "{equipBeta()}"},
+    "name": "Freddy - Level 11", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Beta Equipment|"},
   {
-    "name": "Freddy - Level 12", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "{equipBeta()}"},
+    "name": "Freddy - Level 12", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Beta Equipment|"},
   {
-    "name": "Freddy - Level 13", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "{equipBeta()}"},
+    "name": "Freddy - Level 13", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Beta Equipment|"},
   {
-    "name": "Freddy - Level 14", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "{equipBeta()}"},
+    "name": "Freddy - Level 14", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Beta Equipment|"},
   {
-    "name": "Freddy - Level 15", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "{equipBeta()}"},
+    "name": "Freddy - Level 15", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Beta Equipment|"},
   {
-    "name": "Freddy - Level 16", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "{equipGamma()}"},
+    "name": "Freddy - Level 16", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Gamma Equipment|"},
   {
-    "name": "Freddy - Level 17", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "{equipGamma()}"},
+    "name": "Freddy - Level 17", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Gamma Equipment|"},
   {
-    "name": "Freddy - Level 18", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "{equipGamma()}"},
+    "name": "Freddy - Level 18", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Gamma Equipment|"},
   {
-    "name": "Freddy - Level 19", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "{equipGamma()}"},
+    "name": "Freddy - Level 19", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Gamma Equipment|"},
   {
-    "name": "Freddy - Level 20", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "{equipGamma()}"},
+    "name": "Freddy - Level 20", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Gamma Equipment|"},
   {
     "name": "Bonnie - Level 1", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie|"},
   {
@@ -215,35 +215,35 @@
   {
      "name": "Bonnie - Level 5", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie|"},
   {
-    "name": "Bonnie - Level 6", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND {equipAlpha()}"},
+    "name": "Bonnie - Level 6", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND |Alpha Equipment|"},
   {
-    "name": "Bonnie - Level 7", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND {equipAlpha()}"},
+    "name": "Bonnie - Level 7", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND |Alpha Equipment|"},
   {
-    "name": "Bonnie - Level 8", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND {equipAlpha()}"},
+    "name": "Bonnie - Level 8", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND |Alpha Equipment|"},
   {
-    "name": "Bonnie - Level 9", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND {equipAlpha()}"},
+    "name": "Bonnie - Level 9", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND |Alpha Equipment|"},
   {
-    "name": "Bonnie - Level 10", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND {equipAlpha()}"},
+    "name": "Bonnie - Level 10", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND |Alpha Equipment|"},
   {
-    "name": "Bonnie - Level 11", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND {equipBeta()}"},
+    "name": "Bonnie - Level 11", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND |Beta Equipment|"},
   {
-    "name": "Bonnie - Level 12", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND {equipBeta()}"},
+    "name": "Bonnie - Level 12", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND |Beta Equipment|"},
   {
-    "name": "Bonnie - Level 13", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND {equipBeta()}"},
+    "name": "Bonnie - Level 13", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND |Beta Equipment|"},
   {
-    "name": "Bonnie - Level 14", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND {equipBeta()}"},
+    "name": "Bonnie - Level 14", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND |Beta Equipment|"},
   {
-    "name": "Bonnie - Level 15", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND {equipBeta()}"},
+    "name": "Bonnie - Level 15", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND |Beta Equipment|"},
   {
-    "name": "Bonnie - Level 16", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND {equipGamma()}"},
+    "name": "Bonnie - Level 16", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND |Gamma Equipment|"},
   {
-    "name": "Bonnie - Level 17", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND {equipGamma()}"},
+    "name": "Bonnie - Level 17", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND |Gamma Equipment|"},
   {
-    "name": "Bonnie - Level 18", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND {equipGamma()}"},
+    "name": "Bonnie - Level 18", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND |Gamma Equipment|"},
   {
-    "name": "Bonnie - Level 19", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND {equipGamma()}"},
+    "name": "Bonnie - Level 19", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND |Gamma Equipment|"},
   {
-    "name": "Bonnie - Level 20", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND {equipGamma()}"},
+    "name": "Bonnie - Level 20", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND |Gamma Equipment|"},
   {
     "name": "Chica - Level 1", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Kitchen Key| AND |Chica|"},
   {
@@ -255,35 +255,35 @@
   {
     "name": "Chica - Level 5", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Kitchen Key| AND |Chica|"},
   {
-    "name": "Chica - Level 6", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Kitchen Key| AND |Chica| AND {equipAlpha()}"},
+    "name": "Chica - Level 6", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Kitchen Key| AND |Chica| AND |Alpha Equipment|"},
   {
-    "name": "Chica - Level 7", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Kitchen Key| AND |Chica| AND {equipAlpha()}"},
+    "name": "Chica - Level 7", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Kitchen Key| AND |Chica| AND |Alpha Equipment|"},
   {
-    "name": "Chica - Level 8", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Kitchen Key| AND |Chica| AND {equipAlpha()}"},
+    "name": "Chica - Level 8", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Kitchen Key| AND |Chica| AND |Alpha Equipment|"},
   {
-    "name": "Chica - Level 9", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Kitchen Key| AND |Chica| AND {equipAlpha()}"},
+    "name": "Chica - Level 9", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Kitchen Key| AND |Chica| AND |Alpha Equipment|"},
   {
-    "name": "Chica - Level 10", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Kitchen Key| AND |Chica| AND {equipAlpha()}"},
+    "name": "Chica - Level 10", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Kitchen Key| AND |Chica| AND |Alpha Equipment|"},
   {
-    "name": "Chica - Level 11", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Kitchen Key| AND |Chica| AND {equipBeta()}"},
+    "name": "Chica - Level 11", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Kitchen Key| AND |Chica| AND |Beta Equipment|"},
   {
-    "name": "Chica - Level 12", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Kitchen Key| AND |Chica| AND {equipBeta()}"},
+    "name": "Chica - Level 12", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Kitchen Key| AND |Chica| AND |Beta Equipment|"},
   {
-    "name": "Chica - Level 13", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Kitchen Key| AND |Chica| AND {equipBeta()}"},
+    "name": "Chica - Level 13", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Kitchen Key| AND |Chica| AND |Beta Equipment|"},
   {
-    "name": "Chica - Level 14", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Kitchen Key| AND |Chica| AND {equipBeta()}"},
+    "name": "Chica - Level 14", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Kitchen Key| AND |Chica| AND |Beta Equipment|"},
   {
-    "name": "Chica - Level 15", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Kitchen Key| AND |Chica| AND {equipBeta()}"},
+    "name": "Chica - Level 15", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Kitchen Key| AND |Chica| AND |Beta Equipment|"},
   {
-    "name": "Chica - Level 16", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Kitchen Key| AND |Chica| AND {equipGamma()}"},
+    "name": "Chica - Level 16", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Kitchen Key| AND |Chica| AND |Gamma Equipment|"},
   {
-    "name": "Chica - Level 17", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Kitchen Key| AND |Chica| AND {equipGamma()}"},
+    "name": "Chica - Level 17", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Kitchen Key| AND |Chica| AND |Gamma Equipment|"},
   {
-    "name": "Chica - Level 18", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Kitchen Key| AND |Chica| AND {equipGamma()}"},
+    "name": "Chica - Level 18", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Kitchen Key| AND |Chica| AND |Gamma Equipment|"},
   {
-    "name": "Chica - Level 19", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Kitchen Key| AND |Chica| AND {equipGamma()}"},
+    "name": "Chica - Level 19", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Kitchen Key| AND |Chica| AND |Gamma Equipment|"},
   {
-    "name": "Chica - Level 20", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Kitchen Key| AND |Chica| AND {equipGamma()}"},
+    "name": "Chica - Level 20", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Kitchen Key| AND |Chica| AND |Gamma Equipment|"},
   {
     "name": "Foxy - Level 1", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Lighter| AND |Foxy|"},
   {
@@ -295,35 +295,35 @@
   {
     "name": "Foxy - Level 5", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Lighter| AND |Foxy|"},
   {
-    "name": "Foxy - Level 6", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Lighter| AND |Foxy| AND {equipAlpha()}"},
+    "name": "Foxy - Level 6", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Lighter| AND |Foxy| AND |Alpha Equipment|"},
   {
-    "name": "Foxy - Level 7", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Lighter| AND |Foxy| AND {equipAlpha()}"},
+    "name": "Foxy - Level 7", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Lighter| AND |Foxy| AND |Alpha Equipment|"},
   {
-    "name": "Foxy - Level 8", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Lighter| AND |Foxy| AND {equipAlpha()}"},
+    "name": "Foxy - Level 8", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Lighter| AND |Foxy| AND |Alpha Equipment|"},
   {
-    "name": "Foxy - Level 9", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Lighter| AND |Foxy| AND {equipAlpha()}"},
+    "name": "Foxy - Level 9", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Lighter| AND |Foxy| AND |Alpha Equipment|"},
   {
-    "name": "Foxy - Level 10", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Lighter| AND |Foxy| AND {equipAlpha()}"},
+    "name": "Foxy - Level 10", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Lighter| AND |Foxy| AND |Alpha Equipment|"},
   {
-    "name": "Foxy - Level 11", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Lighter| AND |Foxy| AND {equipBeta()}"},
+    "name": "Foxy - Level 11", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Lighter| AND |Foxy| AND |Beta Equipment|"},
   {
-    "name": "Foxy - Level 12", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Lighter| AND |Foxy| AND {equipBeta()}"},
+    "name": "Foxy - Level 12", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Lighter| AND |Foxy| AND |Beta Equipment|"},
   {
-    "name": "Foxy - Level 13", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Lighter| AND |Foxy| AND {equipBeta()}"},
+    "name": "Foxy - Level 13", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Lighter| AND |Foxy| AND |Beta Equipment|"},
   {
-    "name": "Foxy - Level 14", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Lighter| AND |Foxy| AND {equipBeta()}"},
+    "name": "Foxy - Level 14", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Lighter| AND |Foxy| AND |Beta Equipment|"},
   {
-    "name": "Foxy - Level 15", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Lighter| AND |Foxy| AND {equipBeta()}"},
+    "name": "Foxy - Level 15", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Lighter| AND |Foxy| AND |Beta Equipment|"},
   {
-    "name": "Foxy - Level 16", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Lighter| AND |Foxy| AND {equipGamma()}"},
+    "name": "Foxy - Level 16", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Lighter| AND |Foxy| AND |Gamma Equipment|"},
   {
-    "name": "Foxy - Level 17", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Lighter| AND |Foxy| AND {equipGamma()}"},
+    "name": "Foxy - Level 17", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Lighter| AND |Foxy| AND |Gamma Equipment|"},
   {
-    "name": "Foxy - Level 18", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Lighter| AND |Foxy| AND {equipGamma()}"},
+    "name": "Foxy - Level 18", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Lighter| AND |Foxy| AND |Gamma Equipment|"},
   {
-    "name": "Foxy - Level 19", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Lighter| AND |Foxy| AND {equipGamma()}"},
+    "name": "Foxy - Level 19", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Lighter| AND |Foxy| AND |Gamma Equipment|"},
   {
-    "name": "Foxy - Level 20", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Lighter| AND |Foxy| AND {equipGamma()}"},
+    "name": "Foxy - Level 20", "category": ["Levelsanity"], "region": "Levelsanity", "requires": "|Lighter| AND |Foxy| AND |Gamma Equipment|"},
   {
     "name": "Backroom BB - Item 1", "category": ["BB's Shop"], "region": "BB"},
   {
@@ -345,63 +345,63 @@
   {
     "name": "Backroom BB - Item 10", "category": ["BB's Shop"], "region": "BB"},
   {
-    "name": "Restrooms BB - Item 1", "category": ["BB's Shop"], "region": "BB", "requires": "{canReachLocation(Protection Hat Beta)}"},
+    "name": "Restrooms BB - Item 1", "category": ["BB's Shop"], "region": "BB", "requires": "|Alpha Equipment|"},
   {
-    "name": "Restrooms BB - Item 2", "category": ["BB's Shop"], "region": "BB", "requires": "{canReachLocation(Protection Hat Beta)}"},
+    "name": "Restrooms BB - Item 2", "category": ["BB's Shop"], "region": "BB", "requires": "|Alpha Equipment|"},
   {
-    "name": "Restrooms BB - Item 3", "category": ["BB's Shop"], "region": "BB", "requires": "{canReachLocation(Protection Hat Beta)}"},
+    "name": "Restrooms BB - Item 3", "category": ["BB's Shop"], "region": "BB", "requires": "|Alpha Equipment|"},
   {
-    "name": "Restrooms BB - Item 4", "category": ["BB's Shop"], "region": "BB", "requires": "{canReachLocation(Protection Hat Beta)}"},
+    "name": "Restrooms BB - Item 4", "category": ["BB's Shop"], "region": "BB", "requires": "|Alpha Equipment|"},
   {
-    "name": "Restrooms BB - Item 5", "category": ["BB's Shop"], "region": "BB", "requires": "{canReachLocation(Protection Hat Beta)}"},
+    "name": "Restrooms BB - Item 5", "category": ["BB's Shop"], "region": "BB", "requires": "|Alpha Equipment|"},
   {
-    "name": "Restrooms BB - Item 6", "category": ["BB's Shop"], "region": "BB", "requires": "{canReachLocation(Protection Hat Beta)}"},
+    "name": "Restrooms BB - Item 6", "category": ["BB's Shop"], "region": "BB", "requires": "|Alpha Equipment|"},
   {
-    "name": "Restrooms BB - Item 7", "category": ["BB's Shop"], "region": "BB", "requires": "{canReachLocation(Protection Hat Beta)}"},
+    "name": "Restrooms BB - Item 7", "category": ["BB's Shop"], "region": "BB", "requires": "|Alpha Equipment|"},
   {
-    "name": "Restrooms BB - Item 8", "category": ["BB's Shop"], "region": "BB", "requires": "{canReachLocation(Protection Hat Beta)}"},
+    "name": "Restrooms BB - Item 8", "category": ["BB's Shop"], "region": "BB", "requires": "|Alpha Equipment|"},
   {
-    "name": "Restrooms BB - Item 9", "category": ["BB's Shop"], "region": "BB", "requires": "{canReachLocation(Protection Hat Beta)}"},
+    "name": "Restrooms BB - Item 9", "category": ["BB's Shop"], "region": "BB", "requires": "|Alpha Equipment|"},
   {
-    "name": "Restrooms BB - Item 10", "category": ["BB's Shop"], "region": "BB", "requires": "{canReachLocation(Protection Hat Beta)}"},
+    "name": "Restrooms BB - Item 10", "category": ["BB's Shop"], "region": "BB", "requires": "|Alpha Equipment|"},
   {
-    "name": "Supply Closet BB - Item 1", "category": ["BB's Shop"], "region": "BB", "requires": "{canReachLocation(Protection Hat Gamma)}"},
+    "name": "Supply Closet BB - Item 1", "category": ["BB's Shop"], "region": "BB", "requires": "|Beta Equipment|"},
   {
-    "name": "Supply Closet BB - Item 2", "category": ["BB's Shop"], "region": "BB", "requires": "{canReachLocation(Protection Hat Gamma)}"},
+    "name": "Supply Closet BB - Item 2", "category": ["BB's Shop"], "region": "BB", "requires": "|Beta Equipment|"},
   {
-    "name": "Supply Closet BB - Item 3", "category": ["BB's Shop"], "region": "BB", "requires": "{canReachLocation(Protection Hat Gamma)}"},
+    "name": "Supply Closet BB - Item 3", "category": ["BB's Shop"], "region": "BB", "requires": "|Beta Equipment|"},
   {
-    "name": "Supply Closet BB - Item 4", "category": ["BB's Shop"], "region": "BB", "requires": "{canReachLocation(Protection Hat Gamma)}"},
+    "name": "Supply Closet BB - Item 4", "category": ["BB's Shop"], "region": "BB", "requires": "|Beta Equipment|"},
   {
-    "name": "Supply Closet BB - Item 5", "category": ["BB's Shop"], "region": "BB", "requires": "{canReachLocation(Protection Hat Gamma)}"},
+    "name": "Supply Closet BB - Item 5", "category": ["BB's Shop"], "region": "BB", "requires": "|Beta Equipment|"},
   {
-    "name": "Supply Closet BB - Item 6", "category": ["BB's Shop"], "region": "BB", "requires": "{canReachLocation(Protection Hat Gamma)}"},
+    "name": "Supply Closet BB - Item 6", "category": ["BB's Shop"], "region": "BB", "requires": "|Beta Equipment|"},
   {
-    "name": "Supply Closet BB - Item 7", "category": ["BB's Shop"], "region": "BB", "requires": "{canReachLocation(Protection Hat Gamma)}"},
+    "name": "Supply Closet BB - Item 7", "category": ["BB's Shop"], "region": "BB", "requires": "|Beta Equipment|"},
   {
-    "name": "Supply Closet BB - Item 8", "category": ["BB's Shop"], "region": "BB", "requires": "{canReachLocation(Protection Hat Gamma)}"},
+    "name": "Supply Closet BB - Item 8", "category": ["BB's Shop"], "region": "BB", "requires": "|Beta Equipment|"},
   {
-    "name": "Supply Closet BB - Item 9", "category": ["BB's Shop"], "region": "BB", "requires": "{canReachLocation(Protection Hat Gamma)}"},
+    "name": "Supply Closet BB - Item 9", "category": ["BB's Shop"], "region": "BB", "requires": "|Beta Equipment|"},
   {
-    "name": "Supply Closet BB - Item 10", "category": ["BB's Shop"], "region": "BB", "requires": "{canReachLocation(Protection Hat Gamma)}"},
+    "name": "Supply Closet BB - Item 10", "category": ["BB's Shop"], "region": "BB", "requires": "|Beta Equipment|"},
   {
-    "name": "East Hall Corner BB - Item 1", "category": ["BB's Shop"], "region": "BB", "requires": "{canReachLocation(Protection Hat Omega)}"},
+    "name": "East Hall Corner BB - Item 1", "category": ["BB's Shop"], "region": "BB", "requires": "|Gamma Equipment|"},
   {
-    "name": "East Hall Corner BB - Item 2", "category": ["BB's Shop"], "region": "BB", "requires": "{canReachLocation(Protection Hat Omega)}"},
+    "name": "East Hall Corner BB - Item 2", "category": ["BB's Shop"], "region": "BB", "requires": "|Gamma Equipment|"},
   {
-    "name": "East Hall Corner BB - Item 3", "category": ["BB's Shop"], "region": "BB", "requires": "{canReachLocation(Protection Hat Omega)}"},
+    "name": "East Hall Corner BB - Item 3", "category": ["BB's Shop"], "region": "BB", "requires": "|Gamma Equipment|"},
   {
-    "name": "East Hall Corner BB - Item 4", "category": ["BB's Shop"], "region": "BB", "requires": "{canReachLocation(Protection Hat Omega)}"},
+    "name": "East Hall Corner BB - Item 4", "category": ["BB's Shop"], "region": "BB", "requires": "|Gamma Equipment|"},
   {
-    "name": "East Hall Corner BB - Item 5", "category": ["BB's Shop"], "region": "BB", "requires": "{canReachLocation(Protection Hat Omega)}"},
+    "name": "East Hall Corner BB - Item 5", "category": ["BB's Shop"], "region": "BB", "requires": "|Gamma Equipment|"},
   {
-    "name": "East Hall Corner BB - Item 6", "category": ["BB's Shop"], "region": "BB", "requires": "{canReachLocation(Protection Hat Omega)}"},
+    "name": "East Hall Corner BB - Item 6", "category": ["BB's Shop"], "region": "BB", "requires": "|Gamma Equipment|"},
   {
-    "name": "East Hall Corner BB - Item 7", "category": ["BB's Shop"], "region": "BB", "requires": "{canReachLocation(Protection Hat Omega)}"},
+    "name": "East Hall Corner BB - Item 7", "category": ["BB's Shop"], "region": "BB", "requires": "|Gamma Equipment|"},
   {
-    "name": "East Hall Corner BB - Item 8", "category": ["BB's Shop"], "region": "BB", "requires": "{canReachLocation(Protection Hat Omega)}"},
+    "name": "East Hall Corner BB - Item 8", "category": ["BB's Shop"], "region": "BB", "requires": "|Gamma Equipment|"},
   {
-    "name": "East Hall Corner BB - Item 9", "category": ["BB's Shop"], "region": "BB", "requires": "{canReachLocation(Protection Hat Omega)}"},
+    "name": "East Hall Corner BB - Item 9", "category": ["BB's Shop"], "region": "BB", "requires": "|Gamma Equipment|"},
   {
-    "name": "East Hall Corner BB - Item 10", "category": ["BB's Shop"], "region": "BB", "requires": "{canReachLocation(Protection Hat Omega)}"}
+    "name": "East Hall Corner BB - Item 10", "category": ["BB's Shop"], "region": "BB", "requires": "|Gamma Equipment|"}
 ]

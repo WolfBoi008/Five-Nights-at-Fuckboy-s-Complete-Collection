@@ -27,24 +27,3 @@ def anyClassLevel(state: CollectionState, player: int, level: str):
 def requiresMelee():
     """Returns a requires string that checks if the player has unlocked the tank."""
     return "|Figher Level:15| or |Black Belt Level:15| or |Thief Level:15|"
-
-def partyComplete(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
-    return "|Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND |Kitchen Key| AND |Chica| AND |Lighter| AND |Foxy|"
-
-def equipAlpha(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
-    return "|Progressive Microphone:1| AND ((|Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND |Progressive Guitar:1|) OR (|Kitchen Key| AND |Chica| AND |Progressive Cupcakes:1|) OR (|Lighter| AND |Foxy| AND |Progressive Hook:1|)) AND |Progressive Head Endoskeletons:1| AND |Progressive Body Endoskeletons:1| AND |Progressive Pizza Shields:1| AND |Progressive Caffeine Sodas:1|"
-
-def equipBeta(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
-    return "|Progressive Microphone:2| AND ((|Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND |Progressive Guitar:2| AND |Kitchen Key| AND |Chica| AND |Progressive Cupcakes:2|) OR (|Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND |Progressive Guitar:2| AND |Lighter| AND |Foxy| AND |Progressive Hook:2|) OR (|Kitchen Key| AND |Chica| AND |Progressive Cupcakes:2| AND |Lighter| AND |Foxy| AND |Progressive Hook:2|)) AND |Progressive Head Endoskeletons:2| AND |Progressive Body Endoskeletons:2| AND |Progressive Pizza Shields:2| AND |Progressive Caffeine Sodas:2|"
-
-def equipGamma(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
-    return "|Progressive Microphone:3| AND (|Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND |Progressive Guitar:3| AND |Kitchen Key| AND |Chica| AND |Progressive Cupcakes:3| AND |Lighter| AND |Foxy| AND |Progressive Hook:3|) AND |Progressive Head Endoskeletons:3| AND |Progressive Body Endoskeletons:3| AND |Progressive Pizza Shields:3| AND |Progressive Caffeine Sodas:3|"
-
-def equipOmega(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
-    return "|Progressive Microphone:4| AND (|Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND |Progressive Guitar:4| AND |Kitchen Key| AND |Chica| AND |Progressive Cupcakes:4| AND (|Lighter| AND |Foxy| AND |Progressive Hook:4|) AND |Progressive Head Endoskeletons:4| AND |Progressive Body Endoskeletons:4| AND |Progressive Pizza Shields:4| AND |Progressive Caffeine Sodas:4|"
-
-def equipKingly(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
-    return "|Progressive Microphone:5| AND (|Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND |Progressive Guitar:5| AND |Kitchen Key| AND |Chica| AND |Progressive Cupcakes:5| AND (|Lighter| AND |Foxy| AND |Progressive Hook:5|) AND |Progressive Head Endoskeletons:5| AND |Progressive Body Endoskeletons:5| AND |Progressive Pizza Shields:4| AND |Progressive Caffeine Sodas:4|"
-
-def accessDungeon(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
-    return "|Progressive Microphone:5| AND (|Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND |Progressive Guitar:5| AND |Kitchen Key| AND |Chica| AND |Progressive Cupcakes:5| AND (|Lighter| AND |Foxy| AND |Progressive Hook:5|) AND |Progressive Head Endoskeletons:5| AND |Progressive Body Endoskeletons:5| AND |Progressive Pizza Shields:4| AND |Progressive Caffeine Sodas:4| AND |Godly Microphone| AND |Godly Guitar| AND |Godly Cupcakes| AND |Godly Hook|"

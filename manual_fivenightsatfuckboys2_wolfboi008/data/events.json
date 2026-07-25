@@ -1,0 +1,50 @@
+{
+	"$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.events.schema.json",
+    "data": [
+        {
+            "name": "Recruit Toy Bonnie",
+            "requires": "|Stick| AND |Toy Bonnie|"
+        },
+        {
+            "name": "Recruit Toy Chica",
+            "requires": "|Progressive Cupcakes:1| AND |Toy Chica|"
+        },
+        {
+            "name": "Recruit Mangle",
+            "requires": "|Sex Toy Voucher| AND |Sex Toy| AND |Mangle|"
+        },
+        {
+            "name": "All Toys",
+            "requires": "|Stick| AND |Toy Bonnie| AND |Progressive Cupcakes:1| AND |Toy Chica| AND |Sex Toy Voucher| AND |Sex Toy| AND |Mangle|"
+        },
+        {
+            "name": "Almost Full Party",
+            "requires": "|Stick| AND |Toy Bonnie| AND |Progressive Cupcakes:1| AND |Toy Chica| AND |Sex Toy Voucher| AND |Sex Toy| AND |Mangle| AND |Withered Freddy| AND |Withered Bonnie| AND |Withered Chica| AND |Withered Foxy|"
+        },
+        {
+            "name": "Full Party",
+            "requires": "|Stick| AND |Toy Bonnie| AND |Progressive Cupcakes:1| AND |Toy Chica| AND |Sex Toy Voucher| AND |Sex Toy| AND |Mangle| AND |Withered Freddy| AND |Withered Bonnie| AND |Withered Chica| AND |Withered Foxy| AND |Withered Golden Freddy|"
+        },
+        {
+            "name": "Alpha Equipment",
+            "requires": "|Progressive Microphone:1| AND |Stick| AND |Toy Bonnie| AND |Progressive Guitar:1| AND |Progressive Head Endoskeletons:1| AND |Progressive Body Endoskeletons:1| AND |Progressive Pizza Shields:1| AND |Progressive Caffeine Sodas:1|"
+        },
+        {
+            "name": "Beta Equipment",
+            "requires": "|Progressive Microphone:2| AND |Stick| AND |Toy Bonnie| AND |Progressive Guitar:2| AND |Toy Chica| AND |Progressive Cupcakes:2| AND |Progressive Head Endoskeletons:2| AND |Progressive Body Endoskeletons:2| AND |Progressive Pizza Shields:2| AND |Progressive Caffeine Sodas:2|"
+        },
+        {
+            "name": "Gamma Equipment",
+            "requires": "|Progressive Microphone:3| AND |Stick| AND |Toy Bonnie| AND |Progressive Guitar:3| AND |Toy Chica| AND |Progressive Cupcakes:3| AND |Sex Toy Voucher| AND |Sex Toy| AND |Mangle| AND |Progressive Hook:3| AND |Progressive Head Endoskeletons:3| AND |Progressive Body Endoskeletons:3| AND |Progressive Pizza Shields:3| AND |Progressive Caffeine Sodas:3|"
+        },
+        {
+            "name": "Omega Equipment",
+            "requires": "|Progressive Microphone:4| AND |Stick| AND |Toy Bonnie| AND |Progressive Guitar:4| AND |Toy Chica| AND |Progressive Cupcakes:4| AND |Sex Toy Voucher| AND |Sex Toy| AND |Mangle| AND |Progressive Hook:4| AND |Progressive Head Endoskeletons:4| AND |Progressive Body Endoskeletons:4| AND |Progressive Pizza Shields:4| AND |Progressive Caffeine Sodas:4|"
+        },
+        {
+            "name": "Real Equipment",
+            "requires": "|Progressive Microphone:5| AND |Stick| AND |Toy Bonnie| AND |Progressive Guitar:5| AND |Toy Chica| AND |Progressive Cupcakes:5| AND |Sex Toy Voucher| AND |Sex Toy| AND |Mangle| AND |Progressive Hook:5| AND |Progressive Head Endoskeletons:4| AND |Progressive Body Endoskeletons:4| AND |Progressive Pizza Shields:4| AND |Progressive Caffeine Sodas:4|"
+        }
+    ]
+}
+

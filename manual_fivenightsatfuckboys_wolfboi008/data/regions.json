@@ -1,53 +1,102 @@
 {
   "Show Stage": {
-
+      "connects_to": [
+      "Dining Area",
+      "Levelsanity"
+    ],
+    "requires": [],
+    "starting": true
   },
   "Dining Area": {
-
+    "connects_to": [
+      "Backroom",
+      "Kitchen",
+      "Restrooms",
+      "Pirate Cove",
+      "West Hall",
+      "East Hall"
+    ],
+    "requires": []
   },
   "Backroom": {
-
+    "connects_to": [
+      "BB"
+    ],
+    "requires": []
   },
   "Restrooms": {
-
+    "connects_to": [
+      "BB",
+      "Interior Walls 1st Floor"
+    ],
+    "requires": []
   },
   "Pirate Cove": {
-
+    "connects_to": [],
+    "requires": []
   },
   "West Hall": {
-
+    "connects_to": [
+      "West Hall Corner",
+      "Supply Closet"
+    ],
+    "requires": []
   },
   "East Hall": {
-
+    "connects_to": [
+      "East Hall Corner"
+    ],
+    "requires": []
   },
   "Supply Closet": {
-
+    "connects_to": [
+      "BB"
+    ],
+    "requires": []
   },
   "West Hall Corner": {
-
+    "connects_to": [
+      "Office"
+    ],
+    "requires": []
   },
   "East Hall Corner": {
-
+    "connects_to": [
+      "Office",
+      "BB"
+    ],
+    "requires": []
   },
   "Office": {
-    "requires": "{equipOmega()}"
+    "connects_to": [],
+    "requires": "|Omega Equipment|"
   },
   "Interior Walls 1st Floor": {
-    "requires": "{accessDungeon()}"
+    "connects_to": [
+      "Interior Walls 2nd Floor"
+    ],
+    "requires": "|Dungeon Access|"
   },
   "Interior Walls 2nd Floor": {
-    "requires": "{accessDungeon()}"
+    "connects_to": [
+      "Interior Walls 3rd Floor"
+    ],
+    "requires": []
   },
   "Interior Walls 3rd Floor": {
-    "requires": "{accessDungeon()}"
+    "connects_to": [],
+    "requires": []
   },
   "BB": {
-
+    "connects_to": [],
+    "requires": []
   },
   "Kitchen": {
+    "connects_to": [],
     "requires": "|Kitchen Key|"
   },
   "Levelsanity": {
-
+    "connects_to": [],
+    "requires": []
   }
 }

@@ -1,0 +1,34 @@
+{
+	"$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.events.schema.json",
+    "data": [
+        {
+            "name": "Full Party",
+            "requires": "|Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND |Kitchen Key| AND |Chica| AND |Lighter| AND |Foxy|"
+        },
+        {
+            "name": "Alpha Equipment",
+            "requires": "|Progressive Microphone:1| AND ((|Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND |Progressive Guitar:1|) OR (|Kitchen Key| AND |Chica| AND |Progressive Cupcakes:1|) OR (|Lighter| AND |Foxy| AND |Progressive Hook:1|)) AND |Progressive Head Endoskeletons:1| AND |Progressive Body Endoskeletons:1| AND |Progressive Pizza Shields:1| AND |Progressive Caffeine Sodas:1|"
+        },
+        {
+            "name": "Beta Equipment",
+            "requires": "|Progressive Microphone:2| AND ((|Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND |Progressive Guitar:2| AND |Kitchen Key| AND |Chica| AND |Progressive Cupcakes:2|) OR (|Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND |Progressive Guitar:2| AND |Lighter| AND |Foxy| AND |Progressive Hook:2|) OR (|Kitchen Key| AND |Chica| AND |Progressive Cupcakes:2| AND |Lighter| AND |Foxy| AND |Progressive Hook:2|)) AND |Progressive Head Endoskeletons:2| AND |Progressive Body Endoskeletons:2| AND |Progressive Pizza Shields:2| AND |Progressive Caffeine Sodas:2|"
+        },
+        {
+            "name": "Gamma Equipment",
+            "requires": "|Progressive Microphone:3| AND |Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND |Progressive Guitar:3| AND |Kitchen Key| AND |Chica| AND |Progressive Cupcakes:3| AND |Lighter| AND |Foxy| AND |Progressive Hook:3| AND |Progressive Head Endoskeletons:3| AND |Progressive Body Endoskeletons:3| AND |Progressive Pizza Shields:3| AND |Progressive Caffeine Sodas:3|"
+        },
+        {
+            "name": "Omega Equipment",
+            "requires": "|Progressive Microphone:4| AND |Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND |Progressive Guitar:4| AND |Kitchen Key| AND |Chica| AND |Progressive Cupcakes:4| AND |Lighter| AND |Foxy| AND |Progressive Hook:4| AND |Progressive Head Endoskeletons:4| AND |Progressive Body Endoskeletons:4| AND |Progressive Pizza Shields:4| AND |Progressive Caffeine Sodas:4|"
+        },
+        {
+            "name": "Kingly Equipment",
+            "requires": "|Progressive Microphone:5| AND |Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND |Progressive Guitar:5| AND |Kitchen Key| AND |Chica| AND |Progressive Cupcakes:5| AND |Lighter| AND |Foxy| AND |Progressive Hook:5| AND |Progressive Head Endoskeletons:5| AND |Progressive Body Endoskeletons:5| AND |Progressive Pizza Shields:4| AND |Progressive Caffeine Sodas:4|"
+        },
+        {
+            "name": "Dungeon Access",
+            "requires": "|Progressive Microphone:5| AND |Bonnie's Head Voucher| AND |Bonnie's Head| AND |Bonnie| AND |Progressive Guitar:5| AND |Kitchen Key| AND |Chica| AND |Progressive Cupcakes:5| AND |Lighter| AND |Foxy| AND |Progressive Hook:5| AND |Progressive Head Endoskeletons:5| AND |Progressive Body Endoskeletons:5| AND |Progressive Pizza Shields:4| AND |Progressive Caffeine Sodas:4| AND |Godly Microphone| AND |Godly Guitar| AND |Godly Cupcakes| AND |Godly Hook|"
+        }
+    ]
+}
+

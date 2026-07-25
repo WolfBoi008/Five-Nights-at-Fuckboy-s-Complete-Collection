@@ -1,6 +1,7 @@
 {
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
   "game": "Five Nights at Fuckboy's",
-  "player": "WolfBoi008",
+  "creator": "WolfBoi008",
   "death_link": true,
   "filler_item_name": "Inhalable Dong"
 }

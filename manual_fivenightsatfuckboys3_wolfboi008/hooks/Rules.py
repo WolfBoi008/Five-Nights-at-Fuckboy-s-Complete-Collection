@@ -27,15 +27,3 @@ def anyClassLevel(state: CollectionState, player: int, level: str):
 def requiresMelee():
     """Returns a requires string that checks if the player has unlocked the tank."""
     return "|Figher Level:15| or |Black Belt Level:15| or |Thief Level:15|"
-
-def equipIron():
-    return "|Progressive Whip:1| AND |Progressive Coils:1|"
-
-def equipBronze():
-    return "|Progressive Whip:2| AND |Progressive Coils:2| AND |Toy Freddy Head|"
-
-def equipSilver():
-    return "|Progressive Whip:3| AND |Progressive Coils:3| AND |Toy Freddy Head| AND |Esoteric Sex Toy|"
-
-def equipGold():
-    return "|Progressive Whip:4| AND |Progressive Coils:4| AND |Toy Freddy Head| AND |Esoteric Sex Toy| AND |Poster| AND |Blanket| AND |Tape| AND |Freddy & Friends Blanket|"

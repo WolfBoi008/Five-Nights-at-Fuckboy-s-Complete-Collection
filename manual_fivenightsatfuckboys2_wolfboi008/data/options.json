@@ -16,5 +16,30 @@
         "filler_traps": {
             "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage"
         }
+    },
+
+    "user": {
+        "optional_bosses": {
+            "display_name": "Optional Bosses",
+            "description": [
+                "Add optional Bosses as Checks.",
+                "WARNING: This Option MUST be enabled if you have Refurbs as your Goal.",
+                "It's honestly good to have on for that Goal anyway,",
+                "since it can be a way for you to track which ones you haven't beaten yet.",
+                "(15 Checks)"
+            ],
+            "type": "Toggle",
+            "default": false
+        },
+        
+        "levelsanity": {
+            "display_name": "Levelsanity",
+            "description": [
+                "Add party level-ups as Checks.",
+                "(120 Checks)"
+            ],
+            "type": "Toggle",
+            "default": true
+        }
     }
 }
