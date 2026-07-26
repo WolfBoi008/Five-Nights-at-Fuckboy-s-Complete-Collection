@@ -65,6 +65,4 @@
   - Phantom BB's Shops (NOT YET IMPLEMENTED)
 #### Options
   - Optional Bosses: Adds the optional boss fights (and the skills gained from beating them) as Checks.
-### Five Nights at Fuckboy’s: Afterstory (NOT YET IMPLEMENTED)
-### Five Nights at Fuckboy's: Prelude (NOT YET IMPLEMENTED)
 ### Five Nights at Fuckboy’s: Finale (NOT YET IMPLEMENTED)
